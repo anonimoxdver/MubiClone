@@ -1,0 +1,424 @@
+{
+    "seacrh": [
+        {
+            "id": 1,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_37_murqap.jpg",
+            "director": "KRZYSZTOF KIEŚLOWSKI FRANCE 1993",
+            "name": "THREE COLORS: BLUE",
+            "path": "THREE_COLORS:_BLUE"
+
+        },
+        {
+            "id": 2,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_38_ccsrif.jpg",
+            "director": "ABBAS KIAROSTAMI IRAN 1987",
+            "name": "WHERE IS THE FRIEND'S HOME?",
+            "path": "WHEREI_S_THE_FRIEND'S_HOME"
+
+        },
+        {
+            "id": 3,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647939240/image-w1280_14_rdviwa.jpg",
+            "director": "KRZYSZTOF KIEŚLOWSKI FRANCE 1994",
+            "name": "THREE COLORS: RED",
+            "path": "THREE_COLOR_RED"
+        },
+        {
+            "id": 4,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_36_gh5wj3.jpg",
+            "director": "CHRIS MARKER FRANCE 1962",
+            "name": "LA JETÉE ",
+            "path": "LA_JETE"
+        },
+        {
+            "id": 5,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_46_bwds4g.jpg",
+            "director": "CHARLIE CHAPLIN UNITED STATES 1936",
+            "name": "MODERN TIMES",
+            "path": "MODERN_TIMES"
+
+        },
+        {
+            "id": 6,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_47_ihieht.jpg",
+            "director": "AGNÈS VARDA FRANCE 2000",
+            "name": "THE GLEANERS AND I ",
+            "path": "THE_GLEANERS_AND_I"
+        },
+        {
+            "id": 7,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_48_ent8zk.jpg",
+            "director": "FEDERICO FELLINI ITALY 1957",
+            "name": "NIGHTS OF CABIRIA",
+            "path": "NIGHTS_OF_CABIRIA"
+        },
+        {
+            "id": 8,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_49_m0kdty.jpg",
+            "director": "ANDREI TARKOVSKY SWEDEN 1986",
+            "name": "THE SACRIFICE ",
+            "path": "THE_SACRIFICE"
+
+        },
+        {
+            "id": 9,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_50_noofvs.jpg",
+            "director": "KRZYSZTOF KIEŚLOWSKI FRANCE 1991",
+            "name": "THE DOUBLE LIFE OF VÉRONIQUE",
+            "path": "THE_DOUBLE_LIFE_OF_VERONIQUE"
+        },
+        {
+            "id": 11,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979395/image-w1280_40_bkk84l.jpg",
+            "director": "AGNÈS VARDA FRANCE 1963",
+            "name": "SALUT LES CUBAINS ",
+            "path": "SALUT_LES_CUBAINS"
+
+        },
+        {
+            "id": 12,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979395/image-w1280_41_aalxdi.jpg",
+            "director": "ABBAS KIAROSTAMI IRAN 1997",
+            "name": "TASTE OF CHERR ",
+            "path": "TASTE_OF_CHERR"
+        },
+        {
+            "id": 13,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979395/image-w1280_42_xbwurh.jpg",
+            "director": "AGNÈS VARDA FRANCE 1976 ",
+            "name": "DAGUERRÉOTYPES",
+            "path": "DAGUERREOTYPES"
+        },
+        {
+            "id": 14,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_44_i8z2zf.jpg",
+            "director": "MICHAEL HANEKE AUSTRIA 2001",
+            "name": "THE PIANO TEACHER",
+            "path": "THE_PIANO_TEACHER"
+        },
+        {
+            "id": 15,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_45_zc6kmq.jpg",
+            "director": "OTTÓ FOKY HUNGARY 1976",
+            "name": "SCENES WITH BEANS",
+            "path": "SCENES_WITH_BEANS"
+        },
+        {
+            "id": 16,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648864006/oscars/image-w1280_2_bypv3y.webp",
+            "director": "Charlie Chaplin United States, 1940",
+            "name": "THE GREAT DICTATOR",
+            "path": "THE_GREAT_DICTATOR"
+        },
+        {
+            "id": 17,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648864311/oscars/image-w1280_3_elzwcu.webp",
+            "director": "Thomas Vinterber Denmark, 2012",
+            "name": "THE HUNT",
+            "path": "THE_HUNT"
+        },
+        {
+            "id": 18,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648864542/oscars/image-w1280_4_gtyxim.webp",
+            "director": "Pedro Almodóvar Spain, 2002",
+            "name": "TALK TO HER",
+            "path": "TALK_TO_HER"
+        },
+        {
+            "id": 19,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648865272/oscars/image-w1280_6_uin7ks.webp",
+            "director": "Paweł Pawlikowski Poland, France, 2018",
+            "name": "COLD WAR",
+            "path": "COLD_WAR"
+
+        },
+        {
+            "id": 20,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648865560/oscars/image-w1280_8_sofote.webp",
+            "director": "François Truffaut France, 1959",
+            "name": "THE 400 BLOWS",
+            "path": "THE_400_BLOWS"
+        },
+        {
+            "id": 21,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648865746/oscars/image-w1280_9_x6glsi.webp",
+            "director": "Pedro Almodóvar Spain, France, 1999",
+            "name": "ALL ABOUT MY MOTHER",
+                "path": "ALL_ABOUT_MY_MOTHER"
+        },
+        {
+            "id": 22,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648866169/oscars/image-w1280_10_vzurqm.webp",
+            "director": "Pedro Almodóvar Spain, 2006",
+            "name": "VOLVER",
+            "path": "VOLVER"
+        },
+        {
+            "id": 23,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648866370/oscars/image-w1280_11_z1ua7c.webp",
+            "director": "Andrea Arnold United Kingdom, 2003",
+            "name": "WASP",
+            "path": "WASP"
+
+        },
+                {
+            "id": 24,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648866532/oscars/image-w1280_12_hcrdwn.webp",
+           "director": "Jacques Tati France, Italy, 1958",
+            "name": "MON ONCLE",
+            "path": "MON_ONCLE"
+        },
+        {
+            "id": 25,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648866689/oscars/image-w1280_13_z7bcoy.webp",
+            "director": "Spike Lee United States, 1992",
+            "name": "MALCOLM_X",
+            "path": "MALCOLM_X"
+        },
+        {
+            "id": 26,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648869172/oscars/mubi%20spotlight/image-w1280_14_aieuhg.webp",
+            "director": "Christian Petzold Germany, France, 2018",
+            "name": "TRANSIT",
+            "path": "TRANSIT"
+        },
+
+        {
+            "id": 27,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648869535/oscars/mubi%20spotlight/image-w1280_16_cope4x.webp",
+            "director": "Lars von Trier Denmark, Sweden, 2018",
+            "name": "THE HOUSE THAT JACK BUILT",
+            "path": "THE_HOUSE_THAT_JACK_BUILT"
+        },
+        {
+            "id": 28,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648869916/oscars/mubi%20spotlight/image-w1280_18_fpnmp2.webp",
+            "director": "Mounia Meddour Gens France, 2019",
+            "name": "PAPICHA",
+            "path": "PAPICHA"
+        },
+        {
+            "id": 29,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648870061/oscars/mubi%20spotlight/image-w1280_19_ue1lsy.webp",
+            "director": "Benjamin Ree Norway, 2020",
+            "name": "THE PAINTER AND THE THIEF",
+            "path": "THE_PAINTER_AND_THE_THIEF"
+        },
+        {
+            "id": 30,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648870270/oscars/mubi%20spotlight/image-w1280_20_unujo8.webp",
+            "director": "Pedro Almodóvar Spain, 2020",
+            "name": "THE HUMAN VOICE",
+            "path": "THE_HUMAN_VOICE"
+        },
+        {
+            "id": 31,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648870438/oscars/mubi%20spotlight/image-w1280_21_vkkf6f.webp",
+            "director": "Ken Loach United Kingdom, France, 2019",
+            "name": "SORRY WE MISSED YOU",
+            "path": "SORRY_WE_MISSED_YOU"
+        },
+        {
+            "id": 32,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648870793/oscars/mubi%20spotlight/image-w1280_22_ucpqky.webp",
+            "director": "Cristi Puiu Romania, Serbia, 2020",
+            "name": "MALMKROG",
+            "path": "MALMKROG"
+        },
+        {
+            "id": 33,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648871148/oscars/mubi%20spotlight/image-w1280_23_ueuzjg.webp",
+            "director": "Tsai Ming-liang Taiwan, 2020",
+            "name": "DAYS",
+            "path": "DAYS"
+        },
+        {
+            "id": 34,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648871289/oscars/mubi%20spotlight/image-w1280_24_ofjby2.webp",
+            "director": "François Ozon France, 2020",
+            "name": "SUMMER OF 85",
+            "path": "SUMMER_OF_85"
+        },
+        {
+            "id": 35,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649040684/mubipodcast/image-w1280_25_c5vtsy.webp",
+            "director": "Pelin Esmer Turkey, Germany, 2012",
+            "name": "WATCHTOWER",
+            "path": "WATCHTOWER"
+
+        },
+        {
+            "id": 36,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041870/mubipodcast/image-w1280_27_cfhhye.webp",
+            "director": "Pedro Costa Portugal, 2014",
+            "name": "HORSE MONEY",
+            "path": "HORSE_MONEY"
+        },
+        {
+            "id": 37,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649042297/mubipodcast/image-w1280_28_nbudtb.webp",
+            "director": "María Alché Argentina, Brazil, 2018",
+            "name": "A FAMILY SUBMERGED",
+            "path": "A_FAMILY_SUBMERGED"
+        },
+        {
+            "id": 38,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649046588/mubipodcast/image-w1280_29_s5ga9t.webp",
+            "director": "Charlie Chaplin United States, 1931",
+            "name": "CITY LIGHTS",
+            "path": "CITY_LIGHTS"
+        },
+        {
+            "id": 39,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047080/mubipodcast/image-w1280_31_up7xts.webp",
+            "director": "José Luis Valle Mexico, 2013",
+            "name": "LAS BÚSQUEDAS",
+            "path": "LAS_BÚSQUEDAS"
+        },
+        {
+            "id": 40,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047497/mubipodcast/image-w1280_32_h7lgad.webp",
+            "director": "Pablo Larraín Chile, Mexico, 2010",
+            "name": "POST MORTEM",
+            "path": "POST_MORTEM"
+        },
+        {
+            "id": 41,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048001/mubipodcast/image-w1280_33_ktyjv1.webp",
+            "director": "Pablo Larraín Chile, Brazil, 2008",
+            "name": "TONY MANERO",
+            "path": "TONY_MANERO"
+        },
+        {
+            "id": 42,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048653/mubipodcast/image-w1280_34_g5snxf.webp",
+            "diretor": "Israel Cárdenas, Laura Amelia Guzmán Mexico, United Kingdom, 2007",
+            "name": "COCHOCH",
+            "path": "COCHOCH"
+        },
+        {
+            "id": 43,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649499751/Fiml%20Of%20The%20Day/image-w1280_36_ayxwsi.webp",
+            "director": "Directed by Claire Denis France, 2017",
+            "name": "LET THE SUNSHINE IN",
+            "path": "LET_THE_SUNSHINE_IN"
+        },
+        {
+            "id": 44,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500142/Fiml%20Of%20The%20Day/image-w1280_37_ihnvvw.webp",
+            "director": "Directed by Ryusuke Hamaguch Japan, France, 2018",
+            "name": "ASAKO I & II",
+            "path": "ASAKO_i_ii"
+        },
+        {
+            "id": 45,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500724/Fiml%20Of%20The%20Day/image-w1280_38_bsnrdh.webp",
+            "director": "Directed by Pier Paolo Pasolini Italy, France, 1969",
+            "name": "PIGSTY",
+            "path": "PIGSTY"
+        },
+        {
+            "id": 46,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501193/Fiml%20Of%20The%20Day/image-w1280_39_kfexcs.webp",
+            "director": "Directed by Julio Medem Spain, France, 1998",
+            "name": "LOVERS OF THE ARCTIC CIRCLE",
+            "path": "LOVERS_OF_THE_ARCTIC_CIRCLE"
+        },
+        {
+            "id": 47,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501604/Fiml%20Of%20The%20Day/image-w1280_40_hd7tak.webp",
+            "director": "Directed by Erick Zonca France, United States, 2008",
+            "name": "JULIA",
+            "path": "JULIA"
+        },
+        {
+            "id": 48,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502267/Fiml%20Of%20The%20Day/image-w1280_41_auctfj.webp",
+            "director": "Directed by Ryusuke Hamaguchi Japan, 2021",
+            "name": "DRIVE MY CAR",
+            "path": "DRIVE_MY_CAR"
+        },
+        {
+            "id": 49,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502920/Fiml%20Of%20The%20Day/image-w1280_42_m9vaud.webp",
+            "director": "Directed by Gaspar Noé France, 2002",
+            "name": "IRREVERSIBLE",
+            "path": "IRREVERSIBLE"
+        },
+        {
+            "id": 50,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503522/Fiml%20Of%20The%20Day/image-w1280_43_lqlqdi.webp",
+            "director": "Directed by Lynne Ramsay United Kingdom, France, 2017",
+            "name": "YOU WERE NEVER REALLY HERE",
+            "path": "YOU_WERE_NEVER_REALLY_HERE"
+        },
+        {
+            "id": 51,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504701/Fiml%20Of%20The%20Day/image-w1280_45_g8mylk.webp",
+            "director": "Directed by Jean-Luc Godard France, 1966",
+            "name": "MADE IN U.S.A",
+            "path": "MADE_IN_USA"
+        },
+        {
+            "id": 52,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505097/Fiml%20Of%20The%20Day/image-w1280_46_nzzij7.webp",
+            "director": "Directed by Paolo Sorrentino Italy, France, 2013",
+            "autor": "Paolo Sorrentino",
+            "date": "Italy, France, 2013",
+            "name": "THE GREAT BEAUTY",
+            "path": "THE_GREAT_BEAUTY"
+        },
+        {
+            "id": 53,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505543/Fiml%20Of%20The%20Day/image-w1280_48_cneie7.webp",
+            "director": "Directed by Sara Colangelo United States, 2018",
+            "name": "THE KINDERGARTEN TEACHER",
+            "path": "THE_KINDERGARTEN_TEACHER"
+        },
+        {
+            "id": 54,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649516174/Fiml%20Of%20The%20Day/image-w1280_49_dlg5qp.webp",
+            "director": "Directed by Wong Kar Wai Hong Kong, 1994",
+            "name": "CHUNGKING EXPRESS",
+            "path": "CHUNGKING_EXPRESS"
+        },
+        {
+            "id": 55,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649602772/image-w1280_51_adabke.webp",
+            "director": "Directed by René Laloux France, Czechoslovakia, 1973",
+            "name": "FANTASTIC PLANET",
+            "path": "FANTASTIC_PLANET"
+        },
+        {
+            "id": 56,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649604163/image-w1280_52_xswjsc.webp",
+            "director": "Directed by Xavier Dolan Canada, France, 2012",
+            "name": "LAURENCE ANYWAYS",
+            "path": "LAURENCE_ANYWAYS"
+        },
+        {
+            "id": 57,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649604871/image-w1280_53_yswpop.webp",
+            "director": "Directed by Agnès Varda France, 1985",
+            "name": "VAGABOND",
+            "path": "VAGABOND"
+        },
+        {
+            "id": 58,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649605665/image-w1280_54_i4bwtu.webp",
+            "director": "Directed by Pedro Almodóvar Spain, 1988",
+            "name": "WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN",
+            "path": "WOMEN_ON_THE_VERGE_OF_A_NERVOUS_BREAKDOWN"
+        },
+        {
+            "id": 59,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649606459/image-w1280_56_eeevox.webp",
+            "director": "Directed by Malik Bendjelloul Sweden, United Kingdom, 2012",
+            "name": "SEARCHING FOR SUGAR MAN",
+            "path": "SEARCHING_FOR_SUGAR_MAN"
+        }
+        
+
+
+    ]
+}

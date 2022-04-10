@@ -1,0 +1,2524 @@
+{
+ 
+
+
+
+
+
+
+  "filmsoscar": [
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648864006/oscars/image-w1280_2_bypv3y.webp",
+      "director": "Directed by Charlie Chaplin United States, 1940",
+      "autor": "Charlie Chaplin",
+      "date": " United States, 1940",
+      "name": "THE GREAT DICTATOR",
+      "path": "THE_GREAT_DICTATOR",
+      "synopsis": "After dedicated service in WWI, a Jewish barber spends years in an army hospital, unaware of the rise of a fascist, anti-Semitic dictator, whom he bears an uncanny resemblance to. When he returns to his neighborhood, he is stunned by the brutal changes, and recklessly joins a girl in rebelling.",
+      "our_take": "Charlie vs. Adolf! In his most controversial film yet (as well as his first “talkie”), Chaplin took on fascism with subversive humor, trademark slapstick, and a feast of now-classic scenes. The final speech is legendary, and the “globe dance” is wicked and perverse. An absolute essential. ",
+      "ratings": "8.8/10",
+      "rat": "10.972 Rating",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900505/actors/trending/image-w240_17_acgfd2.jpg",
+          "name": "CHARLIE CHAPLIN",
+          "cast": "EDITING, SCREENPLAY, PRODUCER, MUSIC, CAST, DIRECTOR"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900510/actors/trending/image-w240_18_rk3xds.jpg",
+          "name": "PAULETTE GODDARD",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957114/actors/trending/image-w240_72_tgstlq.jpg",
+          "name": "JACK OAKIE",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957133/actors/trending/image-w240_73_mjqjrp.jpg",
+          "name": "REGINALD GARDINEr",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957144/actors/trending/image-w240_74_pnxkak.jpg",
+          "name": "KARL STRUSS",
+          "cast": "CINEMATOGRAPHY"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900538/actors/trending/image-w240_22_llxigj.jpg",
+          "name": "ROLAND TOTHEROH",
+          "cast": "CINEMATOGRAPHY"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648864311/oscars/image-w1280_3_elzwcu.webp",
+      "director": "Directed by Thomas Vinterber Denmark, 2012",
+      "autor": "Thomas Vinterber",
+      "date": "Denmark, 2012",
+      "name": "THE HUNT",
+      "path": "THE_HUNT",
+      "synopsis": "A middle-aged kindergarten teacher is slowly piecing his life back together following a divorce and custody battle. He has a new love, a new job and is patching things up with his estranged son. But a little white lie from one of his student is about to shatter his newfound luck.",
+      "our_take": "International star Mads Mikkelsen picked up the Best Actor prize at Cannes for what’s become one of the most acclaimed arthouse films of that decade: Thomas Vinterberg’s provocative allegory of mass hysteria, tightly plotted, with an ending to leave you rattled.",
+      "ratings": "8.7/10",
+      "rat": "11.514 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957352/actors/trending/image-w240_75_yasfld.jpg",
+          "name": "THOMAS VINTERBERG",
+          "cast": "DIRECTOR, SCREENPLAY, PRODUCER"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957359/actors/trending/image-w240_76_uhvycg.jpg",
+          "name": "MADS MIKKELSEN",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957366/actors/trending/image-w240_77_asnlbh.jpg",
+          "name": "THOMAS BO LARSE",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957371/actors/trending/image-w240_78_a6zakb.jpg",
+          "name": "ANNIKA WEDDERKOPP",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957377/actors/trending/image-w240_79_tvgjzs.jpg",
+          "name": "LASSE FOGELSTRØM",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957401/actors/trending/image-w240_80_ovdnzu.jpg",
+          "name": "TOBIAS LINDHOLM",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648864542/oscars/image-w1280_4_gtyxim.webp",
+      "director": "Directed by Pedro Almodóvar Spain, 2002",
+      "autor": "Pedro Almodóvar",
+      "date": "Spain, 2002",
+      "name": "TALK TO HER",
+      "path": "TALK_TO_HER",
+      "synopsis": "Benigno is infatuated with Alicia, a dancer he watches from the anonymity of his apartment. After an accident, she is brought to the hospital where Benigno happens to be her caregiver. When wounded bullfighter Lydia is brought into the same ward, her companion, Marco, bonds with Benigno.",
+      "our_take": "Winner of a Best Original Screenplay Oscar, Talk To Her boasts a sublimely improbable premise making for a perfect distillation of modern melodrama. This darkly exquisite version of Sleeping Beauty, where wounds and desire become indiscernible, is a transcendent celebration of male vulnerability. ",
+      "ratings": "8.4/10",
+      "rat": "13.596 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957676/actors/trending/image-w240_81_dvuhyq.jpg",
+          "name": "PEDRO ALMODÓVAR",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957684/actors/trending/image-w240_82_nm5peu.jpg",
+          "name": "DARÍO GRANDINETTI",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957693/actors/trending/image-w240_83_waz24a.jpg",
+          "name": "JAVIER CÁMARA",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957700/actors/trending/image-w240_84_nbqpau.jpg",
+          "name": "LEONOR WATLING",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957711/actors/trending/image-w240_85_gpcgto.jpg",
+          "name": "ROSARIO FLORES",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957726/actors/trending/image-w240_86_hnurll.jpg",
+          "name": "JAVIER AGUIRRESAROBE",
+          "cast": "CINEMATOGRAPHY"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648865272/oscars/image-w1280_6_uin7ks.webp",
+      "director": "Directed by Paweł Pawlikowski Poland, France, 2018",
+      "autor": "Paweł Pawlikowski",
+      "date": "Poland, France, 2018",
+      "name": "COLD WAR",
+      "path": "COLD_WAR",
+      "synopsis": "A man and a woman meet in the ruins of post-war Poland. Wiktor’s attention is immediately captured by Zula, an ambitious and captivating young woman. With vastly different backgrounds and temperaments, they are fatally mismatched and yet drawn to each other.",
+      "our_take": "Peering behind the iron curtain of 1950s Poland, Paweł Pawlikowski’s melancholic, jazzy period piece ruminates on the possibility of borderless love in an ideologically polarized world. An exquisitely shot, black-and-white gem nominated for 3 Academy Awards including Best Director.",
+      "ratings": "8.5/10",
+      "rat": "6567 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958004/actors/trending/image-w240_87_jtnri5.jpg",
+          "name": "PAWEŁ PAWLIKOWSKI",
+          "cast": "DIRECTOR, SCREENPLAY, STORY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958100/actors/trending/image-w240_88_wv4dt9.jpg",
+          "name": "JOANNA KULIG",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958106/actors/trending/image-w240_89_l3sn9a.jpg",
+          "name": "TOMASZ KOT",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958112/actors/trending/image-w240_90_u9b2nx.jpg",
+          "name": "BORYS SZYC",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958123/actors/trending/image-w240_91_qlcjfi.jpg",
+          "name": "AGATA KULESZA",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958143/actors/trending/image-w240_92_sve5lz.jpg",
+          "name": "JANUSZ GLOWACKI",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648865560/oscars/image-w1280_8_sofote.webp",
+      "director": "Directed by François Truffaut France, 1959",
+      "autor": "François Truffaut",
+      "date": "France, 1959",
+      "name": "THE 400 BLOWS",
+      "path": "THE_400_BLOWS",
+      "synopsis": "The 400 Blows traces 14-year-old Antoine Doinel’s odyssey through a life of aloof parents, oppressive teachers and petty crime. A loner on the brink of rebellion, Antoine is buoyed along the way by a touching friendship, a love of cinema, and the hope of escape.",
+      "our_take": "By blowing up the established credos of French cinema, François Truffaut’s defiant, semi-autobiographical debut feature put the Nouvelle Vague on the world stage. An iconic 14-year-old (!) Jean-Pierre Léaud plays a rebellious youth in his first of many turns as Truffaut’s cinematic alter ego.",
+      "ratings": "9.0/10",
+      "rat": "28.148 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958751/actors/trending/image-w240_om8uip.png",
+          "name": "FRANÇOIS TRUFFAUT",
+          "cast": ""
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958761/actors/trending/image-w240_1_y1t4gg.png",
+          "name": "JEAN-PIERRE LÉAUD",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958776/actors/trending/image-w240_93_o7pndr.jpg",
+          "name": "CLAIRE MAURIER",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958798/actors/trending/image-w240_94_unelwx.jpg",
+          "name": "ALBERT RÉM",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958822/actors/trending/image-w240_95_wtfrwb.jpg",
+          "name": "GUY DECOMBLE",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958830/actors/trending/image-w240_96_iwkbse.jpg",
+          "name": "MARCEL MOUSSY",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648865746/oscars/image-w1280_9_x6glsi.webp",
+      "director": "Directed by Pedro Almodóvar Spain, France, 1999",
+      "autor": "Pedro Almodóvar",
+      "date": "Spain, France, 1999",
+      "name": "ALL ABOUT MY MOTHER",
+      "path": "ALL_ABOUT_MY_MOTHER",
+      "synopsis": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun.",
+      "our_take": "One of Almodóvar’s most acclaimed and beloved films, All About My Mother won the Best Director award in Cannes and an Oscar! An immaculate maximalist melodrama full of intense emotion, this love letter to actresses is brought to life by a fierce cast of Almodóvar regulars, including Penélope Cruz.",
+      "ratings": "8.8/10",
+      "rat": "22.189 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957676/actors/trending/image-w240_81_dvuhyq.jpg",
+          "name": "PEDRO ALMODÓVAR",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648959195/actors/trending/image-w240_97_mz9egt.jpg",
+          "name": "CECILIA ROTH",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648959211/actors/trending/image-w240_98_zxx8ty.jpg",
+          "name": "MARISA PAREDES",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648959215/actors/trending/image-w240_99_gocccl.jpg",
+          "name": "CANDELA PEÑA",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648959220/actors/trending/image-w240_100_dgvb19.jpg",
+          "name": "ANTONIA SAN JUAN",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648959232/actors/trending/image-w240_-_2022-04-02T221259.222_vnb1xd.jpg",
+          "name": "AFFONSO BEATO",
+          "cast": "CINEMATOGRAPHER"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647939240/image-w1280_14_rdviwa.jpg",
+      "director": "Directed by KRZYSZTOF KIEŚLOWSKI FRANCE 1994",
+      "autor": "KRZYSZTOF KIEŚLOWSKI",
+      "date": "FRANCE 1994",
+      "name": "THREE COLORS: RED",
+      "path": "THREE_COLOR_RED",
+      "synopsis": "Part-time model Valentine meets a retired judge who lives in her neighborhood after she runs over his dog. At first the judge gifts her with the dog, but her boyfriend won’t allow her to keep it. When she returns to the judge’s house, she finds him listening in on his neighbors’ conversations.",
+      "our_take": "Sumptuously stylish and sexy, this modern classic takes an unconventional look at fate, love, and chance in an interconnected society. Starring Irène Jacob, it was an Academy Award nominee for Best Director and Screenplay and i",
+      "ratings": "8.8/10",
+      "rat": "19.512 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648548157/actors/image-w240_glmljc.png",
+          "name": "KRZYSZTOF KIEŚLOWSKI",
+          "cast": "DIRECTOR, SCREENWRITER"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648548158/actors/image-w240_jfyfpl.jpg",
+          "name": "IRÈNE JACOB",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648548203/actors/image-w240_1_orexsq.jpg",
+          "name": "JEAN-LOUIS TRINTIGNANT",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648548226/actors/image-w240_2_qe6bnr.jpg",
+          "name": "FRÉDÉRIQUE FEDER",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648548299/actors/image-w240_3_z80vn1.jpg",
+          "name": "JEAN-PIERRE LORIT",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648548374/actors/image-w240_4_uv0nzn.jpg",
+          "name": "KRZYSZTOF PIESIEWICZ",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_48_ent8zk.jpg",
+      "director": "Directed by FEDERICO FELLINI ITALY 1957",
+      "autor": "FEDERICO FELLINI",
+      "date": "ITALY 1957",
+      "name": "NIGHTS OF CABIRIA",
+      "path": "NIGHTS_OF_CABIRIA",
+      "synopsis": "Rome, 1957. A woman, Cabiria, is robbed and left to drown by her boyfriend, Giorgio. Rescued, she resumes her life and tries her best to find happiness in a cynical world. Even when she thinks her struggles are over and she has found happiness and contentment, things may not be what they seem.",
+      "our_take": "Giulietta Masina took home the best actress prize from Cannes for her spectacular turn in this Fellini classic. Before his baroque surrealist epics, Fellini made the most intimate of character driven films, of which Nights of Cabiria stands at the forefront with unmatched warmth, charm, and heart.",
+      "ratings": "8.9/10",
+      "rat": "7090 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648901374/actors/trending/image-w240_29_crcvoy.jpg",
+          "name": "FEDERICO FELLINI",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648901382/actors/trending/image-w240_30_ieefue.jpg",
+          "name": "GIULIETTA MASINA",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648901387/actors/trending/image-w240_31_b8ceos.jpg",
+          "name": "FRANÇOIS PÉRIER",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648901395/actors/trending/image-w240_32_ah2fya.jpg",
+          "name": "FRANCA MARZI",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648901399/actors/trending/image-w240_33_ubqivg.jpg",
+          "name": "DORIAN GRAY",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648901414/actors/trending/image-w240_34_xvzanz.jpg",
+          "name": "ENNIO FLAIANO",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648866169/oscars/image-w1280_10_vzurqm.webp",
+      "director": "Directed by Pedro Almodóvar Spain, 2006",
+      "autor": "Pedro Almodóvar",
+      "date": "Spain, 2006",
+      "name": "VOLVER",
+      "path": "VOLVER",
+      "synopsis": "In working-class Madrid, Raimunda needs to deal with her husband’s death, while struggling to support her family. But surrounded by three generations of women—her sister Sole, her daughter Paula, and friend Agustina—and haunted by her dead mother, Raimunda will do more than survive.",
+      "our_take": "Fronted by a divine Penélope Cruz alongside an ensemble cast of Almodóvar regulars like Carmen Maura and Lola Dueñas, Volver is a vibrant generational melodrama about Spanish womanhood and resilience. Almodóvar explores how the ghosts of our past come to haunt us and what we can do to atone.",
+      "ratings": "8.3/10",
+      "rat": "15.358 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957676/actors/trending/image-w240_81_dvuhyq.jpg",
+          "name": "PEDRO ALMODÓVAR",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961265/actors/trending/image-w240_-_2022-04-02T224657.588_avwwup.jpg",
+          "name": "PENÉLOPE CRUZ",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961272/actors/trending/image-w240_-_2022-04-02T224709.649_kmjyhp.jpg",
+          "name": "CARMEN MAURA",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961277/actors/trending/image-w240_-_2022-04-02T224718.449_iefmnn.jpg",
+          "name": "LOLA DUEÑAS",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961283/actors/trending/image-w240_-_2022-04-02T224726.632_ekwrvr.jpg",
+          "name": "BLANCA PORTILLO",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961289/actors/trending/image-w240_-_2022-04-02T224733.379_evsdqh.jpg",
+          "name": "JOSÉ LUIS ALCAINE",
+          "cast": "CINEMATOGRAPHY"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648866370/oscars/image-w1280_11_z1ua7c.webp",
+      "director": "Directed by Andrea Arnold United Kingdom, 2003",
+      "autor": "Andrea Arnold",
+      "date": " United Kingdom, 2003",
+      "name": "WASP",
+      "path": "WASP",
+      "synopsis": "A poor single mother of four must figure out what to do with her children after the guy she fancies asks her on a date, determined not to let them become an obstacle in her pursuit of a relationship.",
+      "our_take": "Reminiscent of the social realism found in her latest triumph Cow, Andrea Arnold’s bracing, Oscar-winning short was shot on location in her hometown of Dartford. Packing a hefty emotional punch, the film confronts the brutality of working-class motherhood with astonishing frankness and empathy.",
+      "ratings": "8.5/10",
+      "rat": "5819 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961530/actors/trending/image-w240_-_2022-04-02T225123.003_lx4mhk.jpg",
+          "name": "ANDREA ARNOLD",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961537/actors/trending/image-w240_-_2022-04-02T225131.483_rug8se.jpg",
+          "name": "NATALIE PRESS",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961543/actors/trending/image-w240_-_2022-04-02T225138.690_ynhgmd.jpg",
+          "name": "DANNY DYER",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961549/actors/trending/image-w240_-_2022-04-02T225145.694_sg7upe.jpg",
+          "name": "ROBBIE RYAN",
+          "cast": "CINEMATOGRAPHER"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961561/actors/trending/image-w240_-_2022-04-02T225152.907_oigatg.jpg",
+          "name": "STEPS",
+          "cast": "MUSIC"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961584/actors/trending/image-w240_-_2022-04-02T225248.034_wcoda3.jpg",
+          "name": "RONAN KEATING",
+          "cast": "MUSIC"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648866532/oscars/image-w1280_12_hcrdwn.webp",
+      "director": "Directed by Jacques Tati France, Italy, 1958",
+      "autor": "Jacques Tati",
+      "date": "France, Italy, 1958",
+      "name": "MON ONCLE",
+      "path": "MON_ONCLE",
+      "synopsis": "Set loose in a society of gaudy materialism, the amiably oblivious Monsieur Hulot finds himself hilariously out of sorts when visiting his sister, brother-in-law, and nephew at their bourgeois house—the geometric Villa Arpel, filled with oppressively bewildering and ultramodern “conveniences.”",
+      "our_take": "For his first film in color, and his second as the legendary Monsieur Hulot, Jacques Tati won an Academy Award for the spectacular visual comedy Mon Oncle—an enormously entertaining film that nonetheless manages to pack quite the punch, poking fun at the new social and economic order of modern life.",
+      "ratings": "8.5/10",
+      "rat": "5823 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648903111/actors/trending/image-w240_44_gv7pkn.jpg",
+          "name": "JACQUES TATI",
+          "cast": "DIRECTOR, SCREENPLAY, CAST"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648961980/actors/trending/image-w240_-_2022-04-02T225855.072_bskig2.jpg",
+          "name": "JEAN-PIERRE ZOLA",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962008/actors/trending/image-w240_-_2022-04-02T225903.564_zvset6.jpg",
+          "name": "ADRIENNE SERVANTIE",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962020/actors/trending/image-w240_-_2022-04-02T225918.326_lilvol.jpg",
+          "name": "LUCIEN FRÉGIS",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648903151/actors/trending/image-w240_48_mz4psm.jpg",
+          "name": "JACQUES LAGRANGE",
+          "cast": "SCREENPLAY"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962036/actors/trending/image-w240_-_2022-04-02T225927.939_uaf1o8.jpg",
+          "name": "JEAN L'HÔTE",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648866689/oscars/image-w1280_13_z7bcoy.webp",
+      "director": "Directed by Spike Lee United States, 1992",
+      "autor": "Spike Lee",
+      "date": " United States, 1992",
+      "name": "MALCOLM_X",
+      "path": "MALCOLM_X",
+      "synopsis": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the ’50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+      "our_take": "A bravura biopic from writer-director Spike Lee (Do the Right Thing, BlacKkKansman), this insightful, engrossing epic does full justice to its subject: civil rights leader Malcolm X. A nuanced exploration of the man and the myth, anchored by a rousing performance from Denzel Washington.",
+      "ratings": "8.5/10",
+      "rat": "3876 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962238/actors/trending/image-w240_-_2022-04-02T230309.006_ycgwob.jpg",
+          "name": "SPIKE LEE",
+          "cast": "PRODUCER, SCREENPLAY, CAST, DIRECTOR"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962244/actors/trending/image-w240_-_2022-04-02T230316.655_qgigtf.jpg",
+          "name": "DENZEL WASHINGTON",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962254/actors/trending/image-w240_-_2022-04-02T230325.921_orbmde.jpg",
+          "name": "ANGELA BASSETT",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962296/actors/trending/image-w240_-_2022-04-02T230334.367_kbg4zz.jpg",
+          "name": "AL FREEMAN, JR",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962308/actors/trending/image-w240_-_2022-04-02T230342.039_fvp8qv.jpg",
+          "name": "ALBERT HALL",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962324/actors/trending/image-w240_-_2022-04-02T230508.202_ow70rx.jpg",
+          "name": "ARNOLD PERL",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    }
+  ],
+
+
+
+  "filmSpotlight": [
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648869172/oscars/mubi%20spotlight/image-w1280_14_aieuhg.webp",
+      "director": "Directed by Christian Petzold Germany, France, 2018",
+      "autor": "Christian Petzold",
+      "date": "Germany, France, 2018",
+      "name": "TRANSIT",
+      "path": "TRANSIT",
+      "synopsis": "As a modern-day Paris is invaded by foreign troops, German refugee Georg flees to Marseille assuming the identity of a deceased writer. There he delves into the delicate culture of the refugee community, becomes involved in the lives of a mother and son, and meets the writer’s enigmatic wife Marie.",
+      "our_take": "A WW2 novel about the German invasion of France, mistaken identity, unrequited love, and a need to escape—but staged in familiar, modern settings. We’re thrown into a relatable world, with characters that we deeply want to win, facing a situation that we realise could return in the 21st Century. -VM",
+      "ratings": "8.2/10",
+      "rat": "6427 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962587/actors/trending/image-w240_-_2022-04-02T230846.874_xevjjd.jpg",
+          "name": "CHRISTIAN PETZOLD",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962592/actors/trending/image-w240_-_2022-04-02T230900.757_iwbxqg.jpg",
+          "name": "FRANZ ROGOWSKI",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962600/actors/trending/image-w240_-_2022-04-02T230909.247_kkuvfp.jpg",
+          "name": "PAULA BEER",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962606/actors/trending/image-w240_-_2022-04-02T230917.363_gfm0sh.jpg",
+          "name": "GODEHARD GIESE",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962612/actors/trending/image-w240_-_2022-04-02T230925.795_t0qhea.jpg",
+          "name": "LILIEN BATMAN",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648962628/actors/trending/image-w240_-_2022-04-02T231015.113_tpecfx.jpg",
+          "name": "ANNA SEGHERS",
+          "cast": "NOVEL"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648869389/oscars/mubi%20spotlight/image-w1280_15_cb577b.webp",
+      "director": "Directed by Gustav Möller Denmark, 2018",
+      "autor": "Gustav Möller",
+      "date": " Denmark, 2018",
+      "name": "THE GUILTY",
+      "path": "THE_GUILTY",
+      "synopsis": "A police officer is demoted to deskwork and answers a phone call from a kidnapped woman. Confined to the police station, the search to find the missing woman will take all his intuition and skill, as his own personal demons conspire against him.",
+      "our_take": "Inspired by the podcast Serial, this debut feature from Gustav Möller is a nerve-wracking police thriller set within the confines of one room. Equal parts psychological portrait and shocking mystery, The Guilty’s ingenious screenplay gives rise to an enthralling performance by Jakob Cedergren.",
+      "ratings": "8.2/10",
+      "rat": "1809 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964604/actors/trending/image-w240_-_2022-04-02T234236.832_vbe9hs.jpg",
+          "name": "GUSTAV MÖLLER",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964616/actors/trending/image-w240_-_2022-04-02T234244.419_z3ek4v.jpg",
+          "name": "JAKOB CEDERGREN",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964631/actors/trending/image-w240_-_2022-04-02T234251.261_zzyclm.jpg",
+          "name": "JESSICA DINNAGE",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964637/actors/trending/image-w240_-_2022-04-02T234258.220_sqhpl9.jpg",
+          "name": "OMAR SHARGAWI",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964647/actors/trending/image-w240_-_2022-04-02T234307.453_kga3ei.jpg",
+          "name": "JOHAN OLSEN",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964652/actors/trending/image-w240_-_2022-04-02T234334.451_yoa13f.jpg",
+          "name": "EMIL NYGAARD ALBERTSEN",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648869535/oscars/mubi%20spotlight/image-w1280_16_cope4x.webp",
+      "director": "Directed by Lars von Trier Denmark, Sweden, 2018",
+      "autor": "Lars von Trier",
+      "date": "Denmark, Sweden, 2018",
+      "name": "THE HOUSE THAT JACK BUILT",
+      "path": "THE_HOUSE_THAT_JACK_BUILT",
+      "synopsis": "Failed architect Jack recounts his elaborately orchestrated murders. Told from his point of view, he sees each one as a towering work of art that defines his life’s work as a serial killer. As the police is drawing nearer, Jack takes greater risks in his attempt to create the ultimate artwork.",
+      "our_take": "A virtuosic act of defiance against his detractors, Lars Von Trier’s The House that Jack Built is a brilliant, ultra-violent portrayal of a serial killer. Starring a mesmeric Matt Dillon on terrifying form, this Dantean plunge into the mind of madness is a provocative blend of comedy and horror.",
+      "ratings": "7.9/10",
+      "rat": "4731 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964852/actors/trending/image-w240_-_2022-04-02T234654.171_s19xuu.jpg",
+          "name": "LARS VON TRIER",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964862/actors/trending/image-w240_-_2022-04-02T234704.433_cpteao.jpg",
+          "name": "MATT DILLON",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964872/actors/trending/image-w240_-_2022-04-02T234711.117_tjxwcl.jpg",
+          "name": "BRUNO GANZ",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964882/actors/trending/image-w240_-_2022-04-02T234718.152_hmhvgb.jpg",
+          "name": "UMA THURMAN",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964893/actors/trending/image-w240_-_2022-04-02T234724.910_ken3is.jpg",
+          "name": "SIOBHAN FALLON HOGAN",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648964902/actors/trending/image-w240_-_2022-04-02T234741.290_lpqhhj.jpg",
+          "name": "MANUEL ALBERTO CLARO",
+          "cast": "CINEMATOGRAPHY"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648869722/oscars/mubi%20spotlight/image-w1280_17_hxn0ga.webp",
+      "director": "Directed by Pedro Costa Portugal, 2019",
+      "autor": "Pedro Costa",
+      "date": "Portugal, 2019",
+      "name": "VITALINA VARELA",
+      "path": "VITALINA_VARELA",
+      "synopsis": "When her husband leaves to find work in Portugal, Vitalina is left behind in Cape Verde. Years later, she finally makes the journey to Lisbon, but arrives three days after his funeral. Alone and isolated in her late husband’s home, she is determined to persevere and confront the ghosts of the past.",
+      "our_take": "Luminary Pedro Costa’s unique, collaborative style of portraiture reaches a magnificent peak in Vitalina Varela. Amongst haunting chiaroscuro compositions, Varela’s real-life stories of love, migration, and deceit take the form of bewitching incantations—and earned her Locarno’s Best Actress award!",
+      "ratings": "8.1/10",
+      "rat": "1184 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965091/actors/trending/image-w240_-_2022-04-02T235100.739_g1pmre.jpg",
+          "name": "PEDRO COSTA",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965104/actors/trending/image-w240_-_2022-04-02T235110.169_iivhts.jpg",
+          "name": "VITALINA VARELA",
+          "cast": "SCREENPLAY, CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965115/actors/trending/image-w240_-_2022-04-02T235118.297_oddsib.jpg",
+          "name": "VENTURA",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965129/actors/trending/image-w240_-_2022-04-02T235132.226_rf412y.jpg",
+          "name": "MANUEL TAVARES ALMEIDA",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965139/actors/trending/image-w240_-_2022-04-02T235143.418_svwvai.jpg",
+          "name": "FRANCISCO BRITO",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965143/actors/trending/image-w240_-_2022-04-02T235155.754_s87jto.jpg",
+          "name": "LEONARDO SIMÕES",
+          "cast": "CINEMATOGRAPHER"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648869916/oscars/mubi%20spotlight/image-w1280_18_fpnmp2.webp",
+      "director": "Directed by Mounia Meddour Gens France, 2019",
+      "autor": "Mounia Meddour Gens",
+      "date": "France, 2019",
+      "name": "PAPICHA",
+      "path": "PAPICHA",
+      "synopsis": "Nedjma, an 18 year-old student passionate about fashion design refuses to let the tragic events of the Algerian Civil War to keep her from experiencing a normal life. As the social climate becomes more conservative, she rejects the new bans set by the radicals and decides to put on a fashion show.",
+      "our_take": "Winner of the César award for Best First Film, this captivating tale of political resistance from Mounia Meddour is bursting with energy. Exquisitely crafted, and with a remarkable lead in César-winning actress Lyna Khoudri, Papicha is a hymn to female empowerment in the face of cultural oppression.",
+      "ratings": "8.7/10",
+      "rat": "865 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965492/actors/trending/image-w240_-_2022-04-02T235756.021_kmeyb0.jpg",
+          "name": "MOUNIA MEDDOUR GENS",
+          "cast": "DIRECTOR, SCREENPLAY, PRODUCER"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965513/actors/trending/image-w240_-_2022-04-02T235819.558_lcmmek.jpg",
+          "name": "LYNA KHOUDRI",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965533/actors/trending/image-w240_-_2022-04-02T235842.714_lvcvnu.jpg",
+          "name": "MARWAN ZEGHBIB",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965555/actors/trending/image-w240_-_2022-04-02T235901.571_txvkz6.jpg",
+          "name": "YASIN HOUICHA",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965573/actors/trending/image-w240_-_2022-04-02T235922.347_cyioqo.jpg",
+          "name": "NADIA KACI",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965593/actors/trending/image-w240_-_2022-04-02T235942.818_h4nhvd.jpg",
+          "name": "FADETTE DROUARD",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648870061/oscars/mubi%20spotlight/image-w1280_19_ue1lsy.webp",
+      "director": "Directed by Benjamin Ree Norway, 2020",
+      "autor": "Benjamin Ree",
+      "date": "Norway, 2020",
+      "name": "THE PAINTER AND THE THIEF",
+      "path": "THE_PAINTER_AND_THE_THIEF",
+      "synopsis": "Desperate for answers about the theft of her 2 paintings, a Czech artist seeks out and befriends the career criminal who stole them. After inviting her thief to sit for a portrait, the two form an improbable relationship and an inextricable bond that will forever link these lonely souls.",
+      "our_take": "It’s impossible not to wheel out the aphorism that truth is stranger than fiction when faced with this astonishing documentary. A slippery, reflexive study in compassion and portraiture, The Painter and the Thief confronts the ethical boundaries of art as a tool for intervention and recovery.",
+      "ratings": "9.1/10",
+      "rat": "2920 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965859/actors/trending/image-w240_-_2022-04-03T000333.850_orf9nc.jpg",
+          "name": "BENJAMIN REE",
+          "cast": "DIRECTOR, CINEMATOGRAPHY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965864/actors/trending/image-w240_-_2022-04-03T000347.626_bzu9lt.jpg",
+          "name": "KARL BERTIL-NORDLAND",
+          "cast": "SELF"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965874/actors/trending/image-w240_-_2022-04-03T000354.461_r157w1.jpg",
+          "name": "BARBORA KYSILKOVA",
+          "cast": "SELF"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965883/actors/trending/image-w240_-_2022-04-03T000401.991_ux9x4p.jpg",
+          "name": "KRISTOFFER KUMAR",
+          "cast": "CINEMATOGRAPHY"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965891/actors/trending/image-w240_-_2022-04-03T000408.513_oajify.jpg",
+          "name": "UNO HELMERSSON",
+          "cast": "MUSIC"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965906/actors/trending/image-w240_-_2022-04-03T000450.956_jp1cle.jpg",
+          "name": "ROBERT STENGÅRD",
+          "cast": "EDITING"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648865272/oscars/image-w1280_6_uin7ks.webp",
+      "director": "Directed by Paweł Pawlikowski Poland, France, 2018",
+      "autor": "Paweł Pawlikowski",
+      "date": "Poland, France, 2018",
+      "name": "COLD WAR",
+      "path": "COLD_WAR",
+      "synopsis": "A man and a woman meet in the ruins of post-war Poland. Wiktor’s attention is immediately captured by Zula, an ambitious and captivating young woman. With vastly different backgrounds and temperaments, they are fatally mismatched and yet drawn to each other.",
+      "our_take": "Peering behind the iron curtain of 1950s Poland, Paweł Pawlikowski’s melancholic, jazzy period piece ruminates on the possibility of borderless love in an ideologically polarized world. An exquisitely shot, black-and-white gem nominated for 3 Academy Awards including Best Director.",
+      "ratings": "8.5/10",
+      "rat": "6567 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958004/actors/trending/image-w240_87_jtnri5.jpg",
+          "name": "PAWEŁ PAWLIKOWSKI",
+          "cast": "DIRECTOR, SCREENPLAY, STORY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958100/actors/trending/image-w240_88_wv4dt9.jpg",
+          "name": "JOANNA KULIG",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958106/actors/trending/image-w240_89_l3sn9a.jpg",
+          "name": "TOMASZ KOT",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958112/actors/trending/image-w240_90_u9b2nx.jpg",
+          "name": "BORYS SZYC",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958123/actors/trending/image-w240_91_qlcjfi.jpg",
+          "name": "AGATA KULESZA",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648958143/actors/trending/image-w240_92_sve5lz.jpg",
+          "name": "JANUSZ GLOWACKI",
+          "cast": "SCREENPLAY"
+        } 
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648870270/oscars/mubi%20spotlight/image-w1280_20_unujo8.webp",
+      "director": "Directed by Pedro Almodóvar Spain, 2020",
+      "autor": "Pedro Almodóvar",
+      "date": "Spain, 2020",
+      "name": "THE HUMAN VOICE",
+      "path": "THE_HUMAN_VOICE",
+      "synopsis": "A woman watches time passing next to the suitcases of her ex-lover (who is supposed to come pick them up, but never arrives) and a restless dog who doesn’t understand that his master has abandoned him. Two living beings facing abandonment.",
+      "our_take": "For his English-language debut, our favourite Spanish auteur Pedro Almodóvar teams up with Tilda Swinton for a loose adaptation of Jean Cocteau’s timeless play. Swinton delivers a spellbinding solo performance, in which vulnerability and despair turn into a monologue of magnificent obsession.",
+      "ratings": "8.4/10",
+      "rat": "12.377 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957676/actors/trending/image-w240_81_dvuhyq.jpg",
+          "name": "PEDRO ALMODÓVAR",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966235/actors/trending/image-w240_-_2022-04-03T000957.783_j7lmhk.jpg",
+          "name": "TILDA SWINTON",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966249/actors/trending/image-w240_2_zbxtbk.png",
+          "name": "JEAN COCTEAU",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966254/actors/trending/image-w240_-_2022-04-03T001012.500_wz9dad.jpg",
+          "name": "JOSÉ LUIS ALCAINE",
+          "cast": "CINEMATOGRAPHY"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966269/actors/trending/image-w240_-_2022-04-03T001018.225_z1syp1.jpg",
+          "name": "ALBERTO IGLESIAS",
+          "cast": "MUSIC"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966278/actors/trending/image-w240_-_2022-04-03T001024.716_ixfgct.jpg",
+          "name": "TERESA FONT",
+          "cast": "EDITING"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648870438/oscars/mubi%20spotlight/image-w1280_21_vkkf6f.webp",
+      "director": "Directed by Ken Loach United Kingdom, France, 2019",
+      "autor": "Ken Loach",
+      "date": "United Kingdom, France, 2019",
+      "name": "SORRY WE MISSED YOU",
+      "path": "SORRY_WE_MISSED_YOU",
+      "synopsis": "Ricky and his family have been fighting an uphill battle against debt since the 2008 financial crash. An opportunity to regain some independence appears by becoming a self-employed delivery driver, but when he and his wife are pulled in different directions, everything will come to a breaking point.",
+      "our_take": "Britain’s pre-eminent auteur of politically-engaged social realism, Ken Loach followed up his Palme d’Or win for I, Daniel Blake with this scathing indictment of the gig economy. Powerfully intimate, Sorry We Missed You is a fierce condemnation of the ruinous practices of the modern job market.",
+      "ratings": "8.7/10",
+      "rat": "2386 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966462/actors/trending/image-w240_-_2022-04-03T001339.258_zdeftu.jpg",
+          "name": "KEN LOACH",
+          "cast": "DIRECTOR"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966468/actors/trending/image-w240_-_2022-04-03T001350.078_pyeuva.jpg",
+          "name": "HARRIET GHOST",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966473/actors/trending/image-w240_-_2022-04-03T001357.009_r099xo.jpg",
+          "name": "DEBBIE HONEYWOOD",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966484/actors/trending/image-w240_-_2022-04-03T001403.546_wz2ay2.jpg",
+          "name": "ALFIE DOBSON",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966497/actors/trending/image-w240_-_2022-04-03T001410.049_h1xszp.jpg",
+          "name": "KRIS HITCHEN",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966518/actors/trending/image-w240_-_2022-04-03T001456.193_mcnfx2.jpg",
+          "name": "PAUL LAVERTY",
+          "cast": "SCREENPLAY"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648870793/oscars/mubi%20spotlight/image-w1280_22_ucpqky.webp",
+      "director": "Directed by Cristi Puiu Romania, Serbia, 2020",
+      "autor": "Cristi Puiu",
+      "date": "Romania, Serbia, 2020",
+      "name": "MALMKROG",
+      "path": "MALMKROG",
+      "synopsis": "Among the guests who come to the mansion of aristocratic landowner Nikolai over Christmas are a politician, a young countess, and a general with his wife. They dine and discuss topics such as progress and morality. As the debate becomes more heated, cultural differences become increasingly apparent.",
+      "our_take": "Grand themes and heated discussions are served at a 19th century Christmas Eve dinner party in this major, Berlinale-winning work from Cristi Puiu. Formally elegant yet wryly punctuated, Malmkrog tightens its dialectical screws with one eye on the present, the other on droll, Buñuelian ironies.",
+      "ratings": "7.8/10",
+      "rat": "1437 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966706/actors/trending/image-w240_-_2022-04-03T001740.215_xiyhbw.jpg",
+          "name": "CRISTI PUIU",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966717/actors/trending/image-w240_-_2022-04-03T001748.197_yxs3tp.jpg",
+          "name": "FRÉDÉRIC SCHULZ-RICHARD",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966726/actors/trending/image-w240_-_2022-04-03T001758.810_peusxc.jpg",
+          "name": "AGATHE BOSCH",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966734/actors/trending/image-w240_-_2022-04-03T001807.088_cccfu3.jpg",
+          "name": "DIANA SAKALAUSKAITĖ",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966758/actors/trending/image-w240_-_2022-04-03T001813.659_cd2dgv.jpg",
+          "name": "MARINA PALII",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966801/actors/trending/image-w240_-_2022-04-03T001943.656_jzstuw.jpg",
+          "name": "VLADIMIR SOLOVYOV",
+          "cast": "STORY"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648871148/oscars/mubi%20spotlight/image-w1280_23_ueuzjg.webp",
+      "director": "Directed by Tsai Ming-liang Taiwan, 2020",
+      "autor": "Tsai Ming-liang",
+      "date": "Taiwan, 2020",
+      "name": "DAYS",
+      "path": "DAYS",
+      "synopsis": "Kang wanders through a lonely urban landscape and seeks treatment in Hong Kong for a chronic illness; at the same time, a young Laotian immigrant named Non works in Bangkok. These two solitary men eventually come together in a moment of healing, tenderness, and sexual release.",
+      "our_take": "Tsai Ming-liang and Lee Kang-sheng’s masterwork is one of their simplest and sweetest propositions. A dialogue-free ode to carnal and spiritual longing that speaks profoundly to our contemporary moment, Days is a film about kinship, healing, and curative connections that tingles with anticipation.",
+      "ratings": "7.7/10",
+      "rat": "735 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966999/actors/trending/image-w240_-_2022-04-03T002237.656_xc3fva.jpg",
+          "name": "TSAI MING-LIANG",
+          "cast": "DIRECTOR, EXECUTIVE PRODUCER, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648967004/actors/trending/image-w240_-_2022-04-03T002249.435_full1y.jpg",
+          "name": "LEE KANG-SHENG",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648967012/actors/trending/image-w240_-_2022-04-03T002255.179_fzl46r.jpg",
+          "name": "ANONG HOUNGHEUANGSY",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648899708/actors/trending/cast_member_placeholder_i0ec5e.png",
+          "name": "JHONG-YUAN CHANG",
+          "cast": "CINEMATOGRAPHY, EDITING"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648899708/actors/trending/cast_member_placeholder_i0ec5e.png",
+          "name": "CLAUDE WANG",
+          "cast": "PRODUCER"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648967022/actors/trending/image-w240_-_2022-04-03T002306.627_kfeu0h.jpg",
+          "name": "DENNIS TSAO",
+          "cast": "SOUND"
+        }
+      ]
+
+    },
+
+    {
+      "id": 12,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648871289/oscars/mubi%20spotlight/image-w1280_24_ofjby2.webp",
+      "director": "Directed by François Ozon France, 2020",
+      "autor": "François Ozon",
+      "date": "France, 2020",
+      "name": "SUMMER OF 85",
+      "path": "SUMMER_OF_85",
+      "synopsis": "When 16-year-old Alexis is caught up in the deceitful Normandy sea, David heroically saves him from drowning. And, this is how Alexis meets the person of his life. But, how long will this tumultuous, dreamy relationship last? Will the dream last for more than one summer, the summer of 85",
+      "our_take": "A ravishing 1980s time capsule, François Ozon’s queer romance whisks us off to the French coast where the sun shines bright and earworms from The Cure and Bananarama are on at full blast. Like the changing ocean tides, the wistful fleetingness of youth only intensifies the passions of first love.",
+      "ratings": "7.5/10",
+      "rat": "2049 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648967528/actors/trending/image-w240_3_pr1kmv.png",
+          "name": "FRANÇOIS OZON",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648967578/actors/trending/image-w240_-_2022-04-03T003130.810_ejvsxi.jpg",
+          "name": "FÉLIX LEFÈBVRE",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648967609/actors/trending/image-w240_-_2022-04-03T003137.478_jq8e78.jpg",
+          "name": "BENJAMIN VOISIN",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648967621/actors/trending/image-w240_-_2022-04-03T003145.155_iwsgg7.jpg",
+          "name": "VALERIA BRUNI TEDESCHI",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648967633/actors/trending/image-w240_-_2022-04-03T003152.016_mvxteo.jpg",
+          "name": "MELVIL POUPAUD",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648967651/actors/trending/image-w240_-_2022-04-03T003401.452_g0mfpm.jpg",
+          "name": "HICHAME ALAOUIÉ",
+          "cast": "CINEMATOGRAPHY"
+        }
+      ]
+    }
+  ],
+
+
+  "MubiPod": [
+    {
+
+    "id": 1,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649040684/mubipodcast/image-w1280_25_c5vtsy.webp",
+    "director": "Directed by Pelin Esmer Turkey, Germany, 2012",
+    "autor": "Pelin Esmer ",
+    "date": "Turkey, Germany, 2012",
+    "name": "WATCHTOWER",
+    "path": "WATCHTOWER",
+    "synopsis": "Haunted by a tragic incident, Nihat isolates himself by becoming a fire warden in an observation tower in the wilderness. Seher lives in a makeshift room at a rural bus station, and works as a bus hostess to escape her own traumatic past. Destined to come to a crossroads, their fates soon collide.",
+    "our_take":"Pelin Esmer’s third film (yet her first work of pure fiction) movingly looks at the hidden tragedies that ordinary people face in their lives. In this meditative melodrama about an incongruous couple overcoming their trauma, Esmer patiently explores the emotions of individuals isolated from society.",
+    "ratings": "8.3/10",
+    "rat": "4386 Ratings",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649040754/mubipodcast/image-w240_-_2022-04-03T215040.890_ab3ytl.jpg",
+        "name": "PELIN ESMER",
+        "cast": "DIRECTOR, PRODUCER, SCREENPLAY, EDITING"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649040792/mubipodcast/image-w240_-_2022-04-03T215203.691_k8aaj5.jpg",
+        "name": "OLGUN ŞIMŞEK",
+        "cast": "CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649040801/mubipodcast/image-w240_-_2022-04-03T215212.900_qojp1z.jpg",
+        "name": "NILAY ERDÖNMEZ",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649040816/mubipodcast/image-w240_-_2022-04-03T215223.596_ahyuwd.jpg",
+        "name": "MENDERES SAMANCILAR",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649040866/mubipodcast/image-w240_-_2022-04-03T215410.580_e8w413.jpg",
+        "name": "LAÇIN CEYLAN",
+        "cast": "CAST"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649040880/mubipodcast/image-w240_-_2022-04-03T215417.349_etaett.jpg",
+        "name": "ÖZGÜR EKEN",
+        "cast": "CINEMATOGRAPHY"
+      }
+    ]
+
+    
+  },
+  {
+
+    "id": 2,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041139/mubipodcast/image-w1280_26_qsude9.webp",
+    "director": "Directed by Sebastián Leli Chile, Spain, 2013",
+    "autor": "Sebastián Leli",
+    "date": "Chile, Spain, 2013",
+    "name": "GLORIA",
+    "path": "GLORIA",
+    "synopsis": "Gloria is a 58 year old divorcée. Her children have all left home but she has no desire to spend her days and nights alone. Determined to defy old age and loneliness, she rushes headlong into a whirl of singles’ parties on the hunt for instant gratification…",
+    "our_take": "Sebastián Lelio’s breakout success is a spinning, invigorating, and heart-warming film which told the world that middle-aged women could be the most complex and touching characters in cinema. This year Lelio re-made his own movie with Julianne Moore, but we adore the enchanting Paulina García",
+    "ratings": "7.7/10",
+    "rat": "1726 Ratings",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041169/mubipodcast/image-w240_-_2022-04-03T215903.823_zj1hio.jpg",
+        "name": "SEBASTIÁN LELIO",
+        "cast": "DIRECTOR, SCREENPLAY, EDITING"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041384/mubipodcast/image-w240_-_2022-04-03T215915.374_lnk4gq.jpg",
+        "name": "PAULINA GARCÍA",
+        "cast": "CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041431/mubipodcast/image-w240_-_2022-04-03T220323.277_yn85si.jpg",
+        "name": "SERGIO HERNÁNDEZ",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041464/mubipodcast/image-w240_-_2022-04-03T220328.891_ahoi0z.jpg",
+        "name": "COCA GUAZZINI",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041464/mubipodcast/image-w240_-_2022-04-03T220328.891_ahoi0z.jpg",
+        "name": "ANTONIA SANTA MARÍA",
+        "cast": "CAST"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041490/mubipodcast/image-w240_-_2022-04-03T220340.690_igfdtx.jpg",
+        "name": "GONZALO MAZA",
+        "cast": "SCREENPLAY"
+      }
+    ]
+
+    
+  },
+  {
+
+    "id": 3,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041870/mubipodcast/image-w1280_27_cfhhye.webp",
+    "director": "Directed by Pedro Costa Portugal, 2014",
+    "autor": "Pedro Costa",
+    "date": "Portugal, 2014",
+    "name": "HORSE MONEY",
+    "path": "HORSE_MONEY",
+    "synopsis": "Pedro Costa’s film follows Ventura, as he traverses a seemingly endless night steeped in sinister chiaroscuro and populated by the ghosts of his past. From the restless spirits that haunt this decaying urban landscape, Costa turns his exploration of memory into a spellbinding cinematic experience.",
+    "our_take": "From Portugal’s greatest living filmmaker comes this dreamlike hallucination of a lost soul belonging to the country’s repressed, abused, misused and forgotten underclass. With his rivetingly poetic political cinema, Pedro Costa gives the unheard and unseen a voice and a true cinematic presence.",
+    "ratings": "8.0/10",
+    "rat": "1565 Ratings",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965091/actors/trending/image-w240_-_2022-04-02T235100.739_g1pmre.jpg",
+        "name": "PEDRO COSTA",
+        "cast": "DIRECTOR, SCREENPLAY"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965104/actors/trending/image-w240_-_2022-04-02T235110.169_iivhts.jpg",
+        "name": "VITALINA VARELA",
+        "cast": "SCREENPLAY, CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965115/actors/trending/image-w240_-_2022-04-02T235118.297_oddsib.jpg",
+        "name": "VENTURA",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041931/mubipodcast/image-w240_-_2022-04-03T221046.754_kinwl0.jpg",
+        "name": "TITO FURTAD",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648965143/actors/trending/image-w240_-_2022-04-02T235155.754_s87jto.jpg",
+        "name": "LEONARDO SIMÕES",
+        "cast": "CINEMATOGRAPHER"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649041940/mubipodcast/image-w240_-_2022-04-03T221052.565_unyvi3.jpg",
+        "name": "JOÃO DIAS",
+        "cast": "EDITING"
+      }
+    ]
+
+    
+  },
+     {
+
+    "id": 4,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649042297/mubipodcast/image-w1280_28_nbudtb.webp",
+    "director": "Directed by María Alché Argentina, Brazil, 2018",
+    "autor": "María Alché",
+    "date": "Argentina, Brazil, 2018",
+    "name": "A FAMILY SUBMERGED",
+    "path": "A_FAMILY_SUBMERGED",
+    "synopsis": "Marcela’s world becomes strange after her sister dies. While she grieves, Marcela also purges her sister’s flat. When a friend of her daughter’s offers to help, she finds unexpected comfort, and their relationship deepens. During these confusing days, Marcela’s past and present become intertwined.",
+    "our_take": "",
+    "ratings": "7.3/10",
+    "rat": "621 Ratings",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649042933/mubipodcast/image-w240_-_2022-04-03T222815.391_snigmr.jpg",
+        "name": "MARÍA ALCHÉ",
+        "cast": "DIRECTOR, SCREENPLAY"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649042945/mubipodcast/image-w240_-_2022-04-03T222821.471_n1lblu.jpg",
+        "name": "MERCEDES MORÁN",
+        "cast": "CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649042954/mubipodcast/image-w240_-_2022-04-03T222830.163_ujpcq5.jpg",
+        "name": "MARCELO SUBIOTTO",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649042964/mubipodcast/image-w240_-_2022-04-03T222836.555_jubahd.jpg",
+        "name": "ESTEBAN BIGLIARDI",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649042979/mubipodcast/image-w240_-_2022-04-03T222843.903_osmpvl.jpg",
+        "name": "DIEGO VELAZQUEZ",
+        "cast": "CAST"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649043072/mubipodcast/image-w240_-_2022-04-03T223101.831_ev3gyt.jpg",
+        "name": "HÉLÈNE LOUVART",
+        "cast": "CINEMATOGRAPHY"
+      }
+    ]
+
+    
+  },
+  {
+
+    "id": 5,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_46_bwds4g.jpg",
+    "director": "Directed by CHARLIE CHAPLIN UNITED STATES 1936",
+    "autor": "CHARLIE CHAPLIN",
+    "date": " UNITED STATES 1936",
+    "name": "MODERN TIMES",
+    "path": "MODERN_TIMES",
+    "synopsis": "Subjected to the infernal production rate of the factory, the Little Tramp suddenly has a nervous breakdown. From hospital, to prison, to unemployment, he gets caught up in the sprockets and cogs of modern industrialization. That is, until he comes across a kind orphaned girl.",
+    "our_take": "Possibly Chaplin’s greatest masterpiece—though with so many, who’s to say?—Modern Times contains some of the comic’s most brilliantly iconic and politically savvy routines. A biting satire of modern industrialized society, Chaplin staved off the 20th-century (and sound cinema) with wit and elegance.",
+    "ratings": "8.9/10",
+    "rat": "14.756 Ratings",
+    "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900505/actors/trending/image-w240_17_acgfd2.jpg",
+        "name": "CHARLIE CHAPLIN",
+        "cast": "EDITING, SCREENPLAY, PRODUCER, MUSIC, CAST, DIRECTOR"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900510/actors/trending/image-w240_18_rk3xds.jpg",
+        "name": "PAULETTE GODDARD",
+        "cast": "CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900515/actors/trending/image-w240_19_smshyi.jpg",
+        "name": "HENRY BERGMAN",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900519/actors/trending/image-w240_20_maiqvf.jpg",
+        "name": "CHESTER CONKLIN",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900523/actors/trending/image-w240_21_efijdx.jpg",
+        "name": "IRA H. MORGAN",
+        "cast": "CINEMATOGRAPHY"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900538/actors/trending/image-w240_22_llxigj.jpg",
+        "name": "ROLAND TOTHEROH",
+        "cast": "CINEMATOGRAPHY"
+      }
+    ]
+
+    
+  },
+     {
+      "id": 6,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1647979396/image-w1280_47_ihieht.jpg",
+      "director": "Directed by AGNÈS VARDA FRANCE 2000",
+      "autor": "AGNÈS VARDA",
+      "date": "FRANCE 2000",
+      "name": "THE GLEANERS AND I ",
+      "path": "THE_GLEANERS_AND_I",
+      "synopsis": "Varda’s rumination on this art of “living off the leftovers of others” finds inspiration in both past and present, rural and urban, the political and the highly personal. Camera in hand, Varda interviews those for whom gleaning is a way of life, or an encompassing philosophy.",
+      "our_take": "Always one to break new ground, Agnès Varda puts together what is simply one of the greatest documentaries of all time. Warm, generous, and very human, this late-career triumph showcases her self-reflexive filming and constant hunt for raw material, finding beauty in the most unexpected of places.",
+      "ratings": "9.2/10",
+      "rat": "13.582 Ratings",
+      "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900820/actors/trending/image-w240_23_g3anny.jpg",
+          "name": "AGNÈS VARDA",
+          "cast": "DIRECTOR, SCREENPLAY, CINEMATOGRAPHY, SELF, EDITING"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900826/actors/trending/image-w240_24_p1pe4o.jpg",
+          "name": "BODAN LITNANSKI",
+          "cast": "SELF"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900831/actors/trending/image-w240_25_iq9y43.jpg",
+          "name": "FRANÇOIS WERTHEIMER",
+          "cast": "SELF"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900841/actors/trending/image-w240_26_gmrmes.jpg",
+          "name": "DIDIER DOUSSIN",
+          "cast": "CINEMATOGRAPHY"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900851/actors/trending/image-w240_27_xvgbqh.jpg",
+          "name": "STÉPHANE KRAUSZ",
+          "cast": "CINEMATOGRAPHY"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900861/actors/trending/image-w240_28_gt3nxz.jpg",
+          "name": "DIDIER ROUGET",
+          "cast": "CINEMATOGRAPHY"
+        }
+    ]
+
+    
+  },
+  {
+    "id": 7,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648864311/oscars/image-w1280_3_elzwcu.webp",
+    "director": "Directed by Thomas Vinterber Denmark, 2012",
+    "autor": "Thomas Vinterber",
+    "date": "Denmark, 2012",
+    "name": "THE HUNT",
+    "path": "THE_HUNT",
+    "synopsis": "A middle-aged kindergarten teacher is slowly piecing his life back together following a divorce and custody battle. He has a new love, a new job and is patching things up with his estranged son. But a little white lie from one of his student is about to shatter his newfound luck.",
+    "our_take": "International star Mads Mikkelsen picked up the Best Actor prize at Cannes for what’s become one of the most acclaimed arthouse films of that decade: Thomas Vinterberg’s provocative allegory of mass hysteria, tightly plotted, with an ending to leave you rattled.",
+    "ratings": "8.7/10",
+    "rat": "11.514 Ratings",
+    "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957352/actors/trending/image-w240_75_yasfld.jpg",
+        "name": "THOMAS VINTERBERG",
+        "cast": "DIRECTOR, SCREENPLAY, PRODUCER"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957359/actors/trending/image-w240_76_uhvycg.jpg",
+        "name": "MADS MIKKELSEN",
+        "cast": "CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957366/actors/trending/image-w240_77_asnlbh.jpg",
+        "name": "THOMAS BO LARSE",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957371/actors/trending/image-w240_78_a6zakb.jpg",
+        "name": "ANNIKA WEDDERKOPP",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957377/actors/trending/image-w240_79_tvgjzs.jpg",
+        "name": "LASSE FOGELSTRØM",
+        "cast": "CAST"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648957401/actors/trending/image-w240_80_ovdnzu.jpg",
+        "name": "TOBIAS LINDHOLM",
+        "cast": "SCREENPLAY"
+      }
+    ]
+
+    
+  },
+  {
+
+    "id": 8,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649046588/mubipodcast/image-w1280_29_s5ga9t.webp",
+    "director": "Directed by Charlie Chaplin United States, 1931",
+    "autor": "Charlie Chaplin",
+    "date": "United States, 1931",
+    "name": "CITY LIGHTS",
+    "path": "CITY_LIGHTS",
+    "synopsis": "A lovable tramp falls for a blind woman who sells flowers on the street and who mistakes him for a millionaire. Upon learning that she and her grandmother are to be evicted, the tramp undertakes a series of attempts to provide them with the money they need, all of which end in humiliating failure.",
+    "our_take": "With Chaplin at his peak, comedy is to be expected. But this renowned classic is also a terrific display of how touching he could be, combining humor with tenderness, slapstick with longing. Although this Depression-era comedy was made after the advent of sound, Chaplin stayed resolutely silent.",
+    "ratings": "8.9/10",
+    "rat": "11.480 Ratings",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648900505/actors/trending/image-w240_17_acgfd2.jpg",
+        "name": "CHARLIE CHAPLIN",
+        "cast": "EDITING, SCREENPLAY, PRODUCER, MUSIC, CAST, DIRECTOR"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649046730/mubipodcast/image-w240_-_2022-04-03T233126.297_adun8b.jpg",
+        "name": "VIRGINIA CHERRILL",
+        "cast": "CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649046738/mubipodcast/image-w240_-_2022-04-03T233135.346_a0z8e7.jpg",
+        "name": "HARRY MYERS",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649046746/mubipodcast/image-w240_-_2022-04-03T233141.718_ph9gon.jpg",
+        "name": "FLORENCE LEE",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649046755/mubipodcast/image-w240_-_2022-04-03T233149.071_o2tkdt.jpg",
+        "name": "HARRY CARR",
+        "cast": "SCREENPLAY"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649046763/mubipodcast/image-w240_-_2022-04-03T233154.823_alehg5.jpg",
+        "name": "HARRY CROCKER",
+        "cast": "SCREENPLAY"
+      }
+    ]
+
+    
+  },
+     {
+
+    "id": 9,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047080/mubipodcast/image-w1280_31_up7xts.webp",
+    "director": "Directed by José Luis Valle Mexico, 2013",
+    "autor": "José Luis Valle",
+    "date": "Mexico, 2013",
+    "name": "LAS BÚSQUEDAS",
+    "path": "LAS_BUSQUEDAS",
+    "synopsis": "Ulises wants to kill the man who stole his wallet, in which he kept the unique photo of his dead daughter. Elvira wants to understand her husband, who had his dog put down and returned home to commit suicide. Both try to fill the void left by their loved ones. The pain of their loss unites them.",
+    "our_take": "The lives of three strangers become entangled in this stunning fable from José Luis Valle. Shot in crisp black-and-white on the streets of Mexico City in 7 days, The Searches is a minimalist examination of social and gender hierarchies that—with an eye for romance and revenge—tips its hat to noir.",
+    "ratings": "7.3/10",
+    "rat": "156 Ratings",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047132/mubipodcast/image-w240_-_2022-04-03T233814.858_cruzly.jpg",
+        "name": "JOSÉ LUIS VALLE",
+        "cast": "SCREENPLAY, DIRECTOR, PRODUCER, EDITING"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047139/mubipodcast/image-w240_-_2022-04-03T233820.251_autf2a.jpg",
+        "name": "GUSTAVO SÁNCHEZ PARRA",
+        "cast": "CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047151/mubipodcast/image-w240_-_2022-04-03T233825.670_exasde.jpg",
+        "name": "ARCELIA RAMÍREZ",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047159/mubipodcast/image-w240_-_2022-04-03T233831.187_uizrxg.jpg",
+        "name": "LÁZARO GABINO RODRÍGUEZ",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047186/mubipodcast/image-w240_-_2022-04-03T233836.731_mfbsjp.jpg",
+        "name": "CÉSAR GUTIÉRREZ MIRANDA",
+        "cast": "CINEMATOGRAPHY"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047233/mubipodcast/image-w240_-_2022-04-03T233955.432_k3grkm.jpg",
+        "name": "ARMANDO NARVÁEZ",
+        "cast": "SOUND"
+      }
+    ]
+
+    
+  },
+  {
+
+    "id": 10,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047497/mubipodcast/image-w1280_32_h7lgad.webp",
+    "director": "Directed by Pablo Larraín Chile, Mexico, 2010",
+    "autor": "Pablo Larraín",
+    "date": "Chile, Mexico, 2010",
+    "name": "POST MORTEM",
+    "path": "POST_MORTEM",
+    "synopsis": "In the midst of Pinochet’s 1973 military coup in Chile, bodies pile up in the morgue. Anyone protesting at the way corpses are treated is regarded as an enemy. Mortuary worker Mario says nothing. Instead he tries to get closer to his neighbor, cabaret dancer Nancy, but she suddenly disappears.",
+    "our_take": "A chilly, slow-burning drama, Post Mortem is simultaneously droll and stark, witnessing a political nightmare in super-widescreen and with a distinctly offbeat sensibility. Pablo Larraín’s second instalment in his unintentional dictatorship-era trilogy",
+    "ratings": "7.4/10",
+    "rat": "865 Ratings",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047610/mubipodcast/image-w240_-_2022-04-03T234557.448_vgme2i.jpg",
+        "name": "PABLO LARRAÍN",
+        "cast": "DIRECTOR, SCREENPLAY"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047616/mubipodcast/image-w240_-_2022-04-03T234603.809_xo1nma.jpg",
+        "name": "ALFREDO CASTRO",
+        "cast": "CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047647/mubipodcast/image-w240_-_2022-04-03T234613.443_bfskw7.jpg",
+        "name": "ANTONIA ZEGERS",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047659/mubipodcast/image-w240_-_2022-04-03T234621.774_yzcldb.jpg",
+        "name": "JAIME VADELL",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047674/mubipodcast/image-w240_-_2022-04-03T234630.936_wv3zma.jpg",
+        "name": "AMPARO NOGUERA",
+        "cast": "CAST"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047693/mubipodcast/image-w240_-_2022-04-03T234804.404_h1dhxf.jpg",
+        "name": "MATEO IRIBARREN",
+        "cast": "SCREENPLAY"
+      }
+    ]
+
+    
+  },
+     {
+
+    "id": 11,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048001/mubipodcast/image-w1280_33_ktyjv1.webp",
+    "director": "Directed by Pablo Larraín Chile, Brazil, 2008",
+    "autor": "Pablo Larraín",
+    "date": "Chile, Brazil, 2008",
+    "name": "TONY MANERO",
+    "path": "TONY_MANERO",
+    "synopsis": "Santiago de Chile, 1978. In the midst of Pinochet’s dictatorship, Raúl Peralta, a man in his 50s, is obsessed with impersonating John Travolta’s character in Saturday Night Fever. And his dream of being recognized is about to become a reality when the national television announces a contest.",
+    "our_take": "Pablo Larraín has been making politically cutting and darkly comic sharp autopsies of the past in his native Chile since this Quinzaine breakthrough. Tony Manero, a satirical psychological study and the first part of a thematic trilogy about life under Pinochet, is biting, confrontative cinema.",
+    "ratings": "7.3/10",
+    "rat": "3275 Ratings",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047610/mubipodcast/image-w240_-_2022-04-03T234557.448_vgme2i.jpg",
+        "name": "PABLO LARRAÍN",
+        "cast": "DIRECTOR, SCREENPLAY"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047616/mubipodcast/image-w240_-_2022-04-03T234603.809_xo1nma.jpg",
+        "name": "ALFREDO CASTRO",
+        "cast": "CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047674/mubipodcast/image-w240_-_2022-04-03T234630.936_wv3zma.jpg",
+        "name": "AMPARO NOGUERA",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048151/mubipodcast/image-w240_-_2022-04-03T235534.137_yhcs4a.jpg",
+        "name": "HÉCTOR MORALES",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048158/mubipodcast/image-w240_-_2022-04-03T235539.648_zfbpyb.jpg",
+        "name": "PAOLA LATTUS",
+        "cast": "CAST"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649047693/mubipodcast/image-w240_-_2022-04-03T234804.404_h1dhxf.jpg",
+        "name": "MATEO IRIBARREN",
+        "cast": "SCREENPLAY"
+      }
+    ]
+
+    
+  },
+  {
+
+    "id": 12,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048653/mubipodcast/image-w1280_34_g5snxf.webp",
+    "diretor": "Directed by Israel Cárdenas, Laura Amelia Guzmán Mexico, United Kingdom, 2007",
+    "autor": "Israel Cárdenas, Laura Amelia  ",
+    "date": "Mexico, 2007",
+    "name": "COCHOCH",
+    "path": "COCHOCH",
+    "synopsis": "Story of Evaristo and Luis Antonio – indigenous brothers from the Sierra Tarahumara in northwest Mexico – who have just graduated from boarding elementary school.",
+    "our_take": "A fable on cultural identity where the adventures of two Rarámuri brothers brings to life the search for oneself amid adversity. This critical portrait of the Indigenous Rarámuri culture and everyday life in Mexico’s Sierra Tarahumara offers a vivid portrayal of the passage into adulthood.",
+    "ratings": "7.7/10",
+    "rat": "77 Ratings",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048736/mubipodcast/image-w240_-_2022-04-04T000500.382_uelzk4.jpg",
+        "name": "ISRAEL CÁRDENAS",
+        "cast": "CINEMATOGRAPHY, EDITING, SCREENPLAY, MUSIC, DIRECTOR"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048743/mubipodcast/image-w240_-_2022-04-04T000505.680_nxvp3u.jpg",
+        "name": "LAURA AMELIA GUZMÁN",
+        "cast": "DIRECTOR, SCREENPLAY, CINEMATOGRAPHY"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048752/mubipodcast/image-w240_-_2022-04-04T000513.147_wgwtya.jpg",
+        "name": "ANTONIO LERMA BATISTA",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048759/mubipodcast/image-w240_-_2022-04-04T000519.445_kae2zi.jpg",
+        "name": "EVARISTO LERMA BATISTA",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048772/mubipodcast/image-w240_-_2022-04-04T000526.454_ojl7l9.jpg",
+        "name": "YIBRÁN ASSAUD",
+        "cast": "EDITING"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649048783/mubipodcast/image-w240_-_2022-04-04T000616.047_fewdux.jpg",
+        "name": "PABLO CRUZ",
+        "cast": "PRODUCER"
+      }
+    ]
+
+    
+  }
+  
+  ],
+
+  "FilmOfTheDay": [
+    {
+
+      "id": 1,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649499751/Fiml%20Of%20The%20Day/image-w1280_36_ayxwsi.webp",
+      "director": "Directed by Claire Denis France, 2017",
+      "autor": "Claire Denis",
+      "date": "France, 2017",
+      "name": "LET THE SUNSHINE IN",
+      "path": "LET_THE_SUNSHINE_IN",
+      "synopsis": "Isabelle is a successful painter living in Paris, whose apparent independence belies what she desires most: real romantic fulfillment. Isabelle reveals deep wells of yearning, vulnerability, and resilience as she tumbles into relationships with all the wrong men.",
+      "our_take": "A Claire Denis romcom? We’re sold! Subverting fairytale tropes with fine irony, this wonderfully unpredictable take on middle-age female desire and the volatility of emotions stars an exquisitely mercurial Juliette Binoche—searching for love, encountering mostly disappointment. Oh, and that ending!",
+      "ratings": "6.5/10",
+      "rat": "2097 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649499852/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T052219.850_zhapfn.jpg",
+          "name": "CLAIRE DENIS",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648899153/actors/trending/image-w240_d0pi36.jpg",
+          "name": "JULIETTE BINOCHE",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649499966/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T052532.607_t2dmlq.jpg",
+          "name": "GÉRARD DEPARDIEU",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649499970/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T052539.104_vregvw.jpg",
+          "name": "XAVIER BEAUVOIS",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649499980/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T052547.897_qppkkg.jpg",
+          "name": "JOSIANE BALASKO",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649499989/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T052554.101_agbgig.jpg",
+          "name": "CHRISTINE ANGOT",
+          "cast": "SCREENPLAY"
+        }
+     ]
+         }, 
+        {
+
+      "id": 2,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500142/Fiml%20Of%20The%20Day/image-w1280_37_ihnvvw.webp",
+      "director": "Directed by Ryusuke Hamaguch Japan, France, 2018",
+      "autor": "Ryusuke Hamaguch",
+      "date": " Japan, France, 2018",
+      "name": "ASAKO I & II",
+      "path": "ASAKO_i_ii",
+      "synopsis": "Asako is a young woman who meets and falls madly in love with a drifter, Baku, who one day drifts right out of her life. Two years later, in Tokyo, Asako sees Baku again—or, rather, a young, solid businessman named Ryohei who bears a striking resemblance to her old flame.",
+      "our_take": "What better way to celebrate Ryusuke Hamaguchi’s Oscar win for Drive My Car than to immerse yourself in his earlier Vertigo-inspired romance mystery! Lovingly devoted to the innermost feelings and fluctuations of its characters, Asako I & II hums to a lively soundtrack by J-Pop star Tofubeats.",
+      "ratings": "7.7/10",
+      "rat": "1851 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500330/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T053131.836_eehxj3.jpg",
+          "name": "RYUSUKE HAMAGUCHI",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500336/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T053139.376_wh5tac.jpg",
+          "name": "MASAHIRO HIGASHIDE",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500344/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T053149.769_rxejkv.jpg",
+          "name": "ERIKA KARATA",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500351/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T053156.638_rhqtbq.jpg",
+          "name": "KÔJI SETO",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500357/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T053202.163_yngtrr.jpg",
+          "name": "RIO YAMASHITA",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500380/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T053243.022_ag2x8f.jpg",
+          "name": "SACHIKO TANAKA",
+          "cast": "SCREENPLAY"
+        }
+     ]
+         }, 
+    {
+
+      "id": 3,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500724/Fiml%20Of%20The%20Day/image-w1280_38_bsnrdh.webp",
+      "director": "Directed by Pier Paolo Pasolini Italy, France, 1969",
+      "autor": "Pier Paolo Pasolini",
+      "date": "Italy, France, 1969",
+      "name": "PIGSTY",
+      "path": "PIGSTY",
+      "synopsis": "The story of a cannibal in a medieval wasteland is interwoven with that of the son of an ex-Nazi industrialist in modern day Germany. The young German, who is more attracted to pigs than to his fiancée, and the cannibal become sacrificial victims of their different societies.",
+      "our_take": "A dazzling fusion of past and present, a two-pronged surrealist story of cannibalism and courtship, and a blow to the bourgeoisie that still stings. Starring arthouse royalty Jean-Pierre Léaud & Pierre Clémenti, Pigsty is a cult marvel on moral decay from one of cinema’s great visionaries, Pasolini.",
+      "ratings": "7.5/10",
+      "rat": "1206 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649500998/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054238.831_yjwwie.jpg",
+          "name": "PIER PAOLO PASOLINI",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501003/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054243.667_eb9m6x.jpg",
+          "name": "PIERRE CLÉMENTI",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501010/Fiml%20Of%20The%20Day/image-w240_4_jl0evu.png",
+          "name": "JEAN-PIERRE LÉAU",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501015/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054257.434_stfhca.jpg",
+          "name": "ANNE WIAZEMSKY",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501026/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054303.546_dnipks.jpg",
+          "name": "ALBERTO LIONELLO",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501050/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054402.018_mh8a7d.jpg",
+          "name": "TONINO DELLI COLLI",
+          "cast": "CINEMATOGRAPHY"
+        }
+     ]
+         }, 
+    {
+
+      "id": 4,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501193/Fiml%20Of%20The%20Day/image-w1280_39_kfexcs.webp",
+      "director": "Directed by Julio Medem Spain, France, 1998",
+      "autor": "Julio Medem",
+      "date": "Spain, France, 1998",
+      "name": "LOVERS OF THE ARCTIC CIRCLE",
+      "path": "LOVERS_OF_THE_ARCTIC_CIRCLE",
+      "synopsis": "Otto and Ana are lovers who meet at the age of eight and remain inextricably linked from that moment on. As their relationship develops through the years, they find themselves drawn to the mysteries of Finland’s hinterland—which stretches right into the Arctic Circle.",
+      "our_take": "With its innovative, elliptical narrative structure and its metaphysical depiction of a sinuous love affair, Lovers of the Arctic Circle rightly became an emblematic work of Spanish cinema. Julio Medem (Sex and Lucía) captured the hearts of a generation with his quasi-mystical look at fated love.",
+      "ratings": "8.1/10",
+      "rat": "3500 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501378/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054902.487_akzwzp.jpg",
+          "name": "JULIO MEDEM",
+          "cast": "SCREENPLAY, DIRECTOR"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501388/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054909.414_le5sdp.jpg",
+          "name": "NAJWA NIMRI",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501398/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054914.869_t0csei.jpg",
+          "name": "FELE MARTÍNEZ",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501404/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054920.285_cvalks.jpg",
+          "name": "NANCHO NOVO",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501412/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T054931.936_de0knw.jpg",
+          "name": "MARU VALDIVIELSO",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501427/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T055018.936_alvdfj.jpg",
+          "name": "GONZALO F. BERRIDI",
+          "cast": "CINEMATOGRAPHY"
+        }
+     ]
+         }, 
+    {
+
+      "id": 5,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501604/Fiml%20Of%20The%20Day/image-w1280_40_hd7tak.webp",
+      "director": "Directed by Erick Zonca France, United States, 2008",
+      "autor": "Erick Zonca",
+      "date": "France, United States, 2008",
+      "name": "JULIA",
+      "path": "JULIA",
+      "synopsis": "40-year-old Julia is an alcoholic struggling to maintain her lifestyle of partying and one-night stands. She is a compulsive liar surviving on nickel-and-dime jobs. But when her desire and desperation drive her to commit an extremely violent act, she is forced to choose between life and death.",
+      "our_take": "After the startling success of his debut The Dreamlife of Angels and an immediate follow-up, we had to wait 8 years until Erick Zonca made this searing, deeply personal thriller. A fearless Tilda Swinton delivers one of the great performances as a self-destructive woman who’s gone off the rails.",
+      "ratings": "7.9/10",
+      "rat": "2728 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501832/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T055640.334_xstvvg.jpg",
+          "name": "ERICK ZONCA",
+          "cast": "SCREENPLAY, DIRECTOR"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648966235/actors/trending/image-w240_-_2022-04-03T000957.783_j7lmhk.jpg",
+          "name": "TILDA SWINTON",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501840/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T055645.817_l53vpc.jpg",
+          "name": "AIDAN GOULD",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501848/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T055652.480_tgaisn.jpg",
+          "name": "SAUL RUBINEK",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501853/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T055658.578_lptend.jpg",
+          "name": "KATE DEL CASTILLO",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649501878/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T055704.545_ff8gh1.jpg",
+          "name": "CAMILLE NATTA",
+          "cast": "SCREENPLAY"
+        }
+     ]
+         }, 
+    {
+      "id": 6,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502267/Fiml%20Of%20The%20Day/image-w1280_41_auctfj.webp",
+      "director": "Directed by Ryusuke Hamaguchi Japan, 2021",
+      "autor": "Ryusuke Hamaguchi",
+      "date": "Japan, 2021",
+      "name": "DRIVE MY CAR",
+      "path": "DRIVE_MY_CAR",
+      "synopsis": "Two years after his wife’s death, Yusuke Kafuku receives an offer to direct a play at a theater festival in Hiroshima. There, he meets Misaki, a reserved young woman assigned to be his chauffeur. As they spend time together, Kafuku starts to confront the mystery of his wife that quietly haunts him.",
+      "our_take": "Winning the Oscar, BAFTA, and Golden Globe for International Feature, Ryusuke Hamaguchi’s expansive Haruki Murakami adaptation is a film of engrossing pleasures. In detailing the effects of the past and the present, of memory and imagination on the creation of art, Drive My Car contains multitudes.",
+      "ratings": "9.0/10",
+      "rat": "5504 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502717/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T061114.959_z5oowb.jpg",
+          "name": "RYUSUKE HAMAGUCHI",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502723/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T061126.034_hb182n.jpg",
+          "name": "HIDETOSHI NISHIJIMA",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502729/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T061132.338_wsjzxw.jpg",
+          "name": "TÔKO MIURA",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502737/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T061138.531_qd6vat.jpg",
+          "name": "REIKA KIRISHIMA",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502747/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T061145.490_mb2ptc.jpg",
+          "name": "MASAKI OKADA",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502769/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T061237.644_byceal.jpg",
+          "name": "TAKAMASA OE",
+          "cast": "SCREENPLAY"
+        }
+     ]
+         }, 
+             {
+
+      "id": 7,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649502920/Fiml%20Of%20The%20Day/image-w1280_42_m9vaud.webp",
+      "director": "Directed by Gaspar Noé France, 2002",
+      "autor": "Gaspar Noé",
+      "date": "France, 2002",
+      "name": "IRREVERSIBLE",
+      "path": "IRREVERSIBLE",
+      "synopsis": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+      "our_take": "Starring Vincent Cassel and Monica Bellucci, provocateur Gaspar Noé’s infamous backtracking revenge thriller is groundbreaking, offensive and frightening, causing much controversy at its premiere in Cannes. Brutal and possibly cruel, it is a dark story audaciously told—not for the faint-hearted!",
+      "ratings": "7.7/10",
+      "rat": "11.228 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503303/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062049.518_egkfum.jpg",
+          "name": "GASPAR NOÉ",
+          "cast": "DIRECTOR, SCREENPLAY, CINEMATOGRAPHY, EDITING, CAST, PRODUCER"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503310/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062059.516_dxppaf.jpg",
+          "name": "MONICA BELLUCCI",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503316/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062105.159_hqdgbq.jpg",
+          "name": "VINCENT CASSEL",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503321/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062111.513_y2z7m7.jpg",
+          "name": "ALBERT DUPONTEL",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503332/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062117.849_gju6w0.jpg",
+          "name": "PHILIPPE NAHON",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503350/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062216.483_swjon8.jpg",
+          "name": "BENOÎT DEBIE",
+          "cast": "CINEMATOGRAPHY"
+        }
+     ]
+         }, 
+             {
+
+      "id": 8,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503522/Fiml%20Of%20The%20Day/image-w1280_43_lqlqdi.webp",
+      "director": "Directed by Lynne Ramsay United Kingdom, France, 2017",
+      "autor": "Lynne Ramsay",
+      "date": "United Kingdom, France, 2017",
+      "name": "YOU WERE NEVER REALLY HERE",
+      "path": "YOU_WERE_NEVER_REALLY_HERE",
+      "synopsis": "The tormented veteran Joe tracks down missing girls for a living. However, when he sets out to rescue the kidnapped daughter of a US Senator from a sex trafficking ring, things go horribly wrong. As he finds himself weathering a storm of corruption and vengeance, nightmares start to overtake him.",
+      "our_take": "After a six year absence, Lynne Ramsay returned with this stripped-to-the-bone adaptation of Jonathan Ames’ muscular novella. Featuring a powerhouse lead performance from Joaquin Phoenix, and a mesmerising Jonny Greenwood score, this enigmatic thriller is a triumph of form and psychological texture.",
+      "ratings": "7.3/10",
+      "rat": "3078 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503706/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062750.463_fukwk0.jpg",
+          "name": "LYNNE RAMSAY",
+          "cast": "DIRECTOR, SCREENPLAY, PRODUCER"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503713/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062800.270_zgh9gs.jpg",
+          "name": "JOAQUIN PHOENIX",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503720/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062806.343_juqtil.jpg",
+          "name": "EKATERINA SAMSONOV",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503728/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062812.058_osyb7y.jpg",
+          "name": "ALESSANDRO NIVOLA ",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503733/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062818.036_ri4zex.jpg",
+          "name": "ALEX MANETTE",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503751/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T062903.274_ov20x3.jpg",
+          "name": "THOMAS TOWNEND",
+          "cast": "CINEMATOGRAPHY"
+        }
+     ]
+         }, 
+             {
+
+      "id": 9,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649503935/Fiml%20Of%20The%20Day/image-w1280_44_tkudnn.webp",
+      "director": "Directed by Pier Paolo Pasolini Italy, 1967",
+      "autor": "Pier Paolo Pasolini",
+      "date": "Italy, 1967",
+      "name": "OEDIPUS REX",
+      "path": "OEDIPUS_REX",
+      "synopsis": "Oedipus Rex opens in 1920s Italy, recounting a birth that is the product of a bourgeoise’s affair with a military officer. The mid section depicts the myth of Oedipus, one of patricide and incest. An epilogue finds Oedipus playing his flute for a bustling citizenry in 1960s Bologna.",
+      "our_take": "Following The Gospel According to Matthew, Pier Paolo Pasolini turned to another classical text for this deeply personal take on Sophocles’ immortal tragedy. Hopping from Morocco to Bologna for his first film shot in color, Pasolini fashions a hugely ambitious, three-part epic of modern mythmaking.",
+      "ratings": "8.0/10",
+      "rat": "1520 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504435/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T063958.148_eaf1b4.jpg",
+          "name": "PIER PAOLO PASOLINI",
+          "cast": "SCREENPLAY, CAST, DIRECTOR"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504442/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T064004.332_s8e0bg.jpg",
+          "name": "SILVANA MANGANO",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504442/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T064004.332_s8e0bg.jpg",
+          "name": "FRANCO CITTI",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504456/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T064016.092_v7bsda.jpg",
+          "name": "ALIDA VALLI",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504466/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T064021.771_oq8twi.jpg",
+          "name": "CARMELO BENE",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504484/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T064113.465_pkyyti.jpg",
+          "name": "SOPHOCLES",
+          "cast": "PLAY"
+        }
+     ]
+         }, 
+             {
+
+      "id": 10,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504701/Fiml%20Of%20The%20Day/image-w1280_45_g8mylk.webp",
+      "director": "Directed by Jean-Luc Godard France, 1966",
+      "autor": "Jean-Luc Godard",
+      "date": " France, 1966",
+      "name": "MADE IN U.S.A",
+      "path": "MADE_IN_USA",
+      "synopsis": "Paula Nelson, a hard boiled detective, goes to Atlantic City to meet her lover. Once there, she learns that he is dead and decides to investigate. In her hotel room, she kills a man whose body is later found in the apartment of writer David Goodis. Paula will soon be arrested and interrogated.",
+      "our_take": "In this self-conscious and colourful film noir, Jean-Luc Godard delivers both the most extreme and exuberant expression of his bombastic pop-art filmmaking, and an indication of his turn to leftist politics. His last film with Anna Karina, featuring an unforgettable cameo from Marianne Faithfull.",
+      "ratings": "6.9/10",
+      "rat": "2527 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504881/Fiml%20Of%20The%20Day/image-w240_5_gms3nu.png",
+          "name": "JEAN-LUC GODARD",
+          "cast": "DIRECTOR, SCREENPLAY, VOICE"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504889/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T064656.273_m7okf6.jpg",
+          "name": "ANNA KARINA",
+          "cast": "CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504896/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T064702.377_u8we6a.jpg",
+          "name": "LÁSZLÓ SZABÓ",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1648548299/actors/image-w240_3_z80vn1.jpg",
+          "name": "JEAN-PIERRE LORIT",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504905/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T064708.956_segrzs.jpg",
+          "name": "MARIANNE FAITHFULL",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649504913/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T064715.246_vpy4gh.jpg",
+          "name": "DONALD E. WESTLAKE",
+          "cast": "NOVEL"
+        }
+     ]
+         }, 
+         {
+          "id": 11,
+          "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505097/Fiml%20Of%20The%20Day/image-w1280_46_nzzij7.webp",
+          "director": "Directed by Paolo Sorrentino Italy, France, 2013",
+          "autor": "Paolo Sorrentino",
+          "date": "Italy, France, 2013",
+          "name": "THE GREAT BEAUTY",
+          "path": "THE_GREAT_BEAUTY",
+          "synopsis": "Jep Gambardella, a 65-year-old journalist, lives among Rome’s decadent high society in a swirl of rooftop parties and late-night soirees. But when he learns of the death of his friend’s wife, a woman he once loved, his life is thrown into perspective and he begins to see the world through new eyes.",
+          "our_take": "An ornate and eye-popping extravaganza, Paolo Sorrentino’s dazzling, suitably self-conscious spectacle conceals a despairing satire, a nauseous indictment of the glamorous facade and moral bankruptcy of Italy’s recent Berlusconi era. Winner of the Academy Award for Best Foreign Language film.",
+          "ratings": "8.4/10",
+          "rat": "8255 Ratings",
+           "actors": [
+            {
+              "id": 1,
+              "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505252/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T065337.159_tibwju.jpg",
+              "name": "PAOLO SORRENTINO",
+              "cast": "DIRECTOR, SCREENPLAY"
+            },
+            {
+              "id": 2,
+              "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505257/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T065345.622_f3a9dl.jpg",
+              "name": "TONI SERVILLO",
+              "cast": "CAST"
+            },
+            {
+              "id": 3,
+              "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505264/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T065351.596_opmc0c.jpg",
+              "name": "SABRINA FERILLI",
+              "cast": "CAST"
+            },
+            {
+              "id": 4,
+              "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505269/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T065357.700_kvybkc.jpg",
+              "name": "GIANPIERO COGNOLI",
+              "cast": "CAST"
+            },
+            {
+              "id": 5,
+              "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505279/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T065403.372_hklygs.jpg",
+              "name": "STEFANO FREGNI",
+              "cast": "CAST"
+            },
+            {
+              "id": 6,
+              "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505298/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T065447.463_yyz8ol.jpg",
+              "name": "UMBERTO CONTARELLO",
+              "cast": "SCREENPLAY"
+            }
+         ]
+             },
+    {
+
+      "id": 12,
+      "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505543/Fiml%20Of%20The%20Day/image-w1280_48_cneie7.webp",
+      "director": "Directed by Sara Colangelo United States, 2018",
+      "autor": "Sara Colangelo",
+      "date": "United States, 2018",
+      "name": "THE KINDERGARTEN TEACHER",
+      "path": "THE_KINDERGARTEN_TEACHER",
+      "synopsis": "Lisa Spinelli, married and living with kids that mostly ignore her, plods through her days teaching kindergarten with growing numbness. But one day everything changes—Lisa discovers that a five-year-old boy in her class may be the poet she can only dream of being. She becomes fascinated.",
+      "our_take": "Sara Colangelo won a directing award in Sundance for her remake of Nadav Lapid’s film, starring Maggie Gyllenhaal—also a producer—at her very best! This riveting tale of obsession and disenchantment ambiguously questions what might be the role of art in our everyday life and personal development.",
+      "ratings": "8.3/10",
+      "rat": "3649 Ratings",
+       "actors": [
+        {
+          "id": 1,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505728/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T070132.949_vnbk2h.jpg",
+          "name": "SARA COLANGELO",
+          "cast": "DIRECTOR, SCREENPLAY"
+        },
+        {
+          "id": 2,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505734/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T070139.882_bnzfrw.jpg",
+          "name": "MAGGIE GYLLENHAAL",
+          "cast": "PRODUCER, CAST"
+        },
+        {
+          "id": 3,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505741/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T070145.847_rkeuxe.jpg",
+          "name": "ROSA SALAZAR",
+          "cast": "CAST"
+        },
+        {
+          "id": 4,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505748/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T070151.727_fxv77c.jpg",
+          "name": "GAEL GARCÍA BERNAL",
+          "cast": "CAST"
+        },
+        {
+          "id": 5,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505755/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T070158.128_iw2xvo.jpg",
+          "name": "MICHAEL CHERNUS",
+          "cast": "CAST"
+        },
+        {
+          "id": 6,
+          "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649505776/Fiml%20Of%20The%20Day/image-w240_-_2022-04-09T070244.068_dovtsu.jpg",
+          "name": "PEPE AVILA DEL PINO",
+          "cast": "CINEMATOGRAPHER"
+        }
+     ]
+         }
+  
+     
+         
+ ]
+ 
+
+
+}
