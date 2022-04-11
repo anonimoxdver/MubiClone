@@ -8,7 +8,9 @@ export const CoverPage = () => {
          <div className='exclusive'>Exclusive</div>
          <span className='span1'>FILM OF THE DAY</span>
          <div className='play_div'>
-           <img  className='play'src="https://res.cloudinary.com/dsii7wbi4/image/upload/v1649457032/1024px-Caret_right_font_awesome.svg_zyram1.png" alt="" />
+           <a href="/LAMB">
+              <img  className='play'src="https://res.cloudinary.com/dsii7wbi4/image/upload/v1649457032/1024px-Caret_right_font_awesome.svg_zyram1.png" alt="" />
+           </a>
          </div>
             <img src="https://res.cloudinary.com/dsii7wbi4/image/upload/v1649448132/images-original_1_qdzjiw.webp" alt=""  className='img_page'/>
             <span className='direc_'>Valdimar Jóhannsson</span>

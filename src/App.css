@@ -595,8 +595,9 @@ width: 60px;
   
   width: 340px;
   margin-left: 146px;
-  margin-top: 315px;
+  top: 380px;
  position: absolute;
+ 
 }
 
 .span1 {
@@ -657,6 +658,7 @@ width: 60px;
   left: 146px;
   top: 92%;
   font-size: 12px;
+  padding-top: 10px;
 }
 
 .play {

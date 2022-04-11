@@ -2517,8 +2517,58 @@
   
      
          
- ]
- 
+ ],
+ "Movie": [
+  {
 
+    "id": 1,
+    "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649448141/image-w1280_35_ysspu6.webp",
+    "director": "Directed by Valdimar Jóhannsso Iceland, Sweden, 2021",
+    "name": "LAMB",
+    "path": "LAMB",
+    "synopsis": "A couple living alone on a remote farm in Iceland find their quiet existence shaken by the astonishing discovery of a mysterious newborn amongst their sheep. They decide to raise the child as their own, but soon face the consequences of defying the will of nature.",
+    "our_take": "Precision-timed in revealing its uncanny mysteries, it’s little wonder that Valdimar Jóhannsson’s nightmarishly eerie debut took the Prize of Originality at Cannes. Led by a magnificent Noomi Rapace, this genre-defying fable stages a cloven reckoning with the psychological landscapes of motherhood.",
+    "ratings": "7.5/10",
+    "rat": "6885 Rating",
+     "actors": [
+      {
+        "id": 1,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649717850/image-w240_-_2022-04-11T175550.221_ea02gp.jpg",
+        "name": "VALDIMAR JÓHANNSSON",
+        "cast": "DIRECTOR, SCREENPLAY"
+      },
+      {
+        "id": 2,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649717860/image-w240_-_2022-04-11T175610.979_dtx17o.jpg",
+        "name": "NOOMI RAPACE",
+        "cast": "EXECUTIVE PRODUCER, CAST"
+      },
+      {
+        "id": 3,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649717866/image-w240_-_2022-04-11T175623.580_yaovq4.jpg",
+        "name": "HILMIR SNÆR GUÐNASON",
+        "cast": "CAST"
+      },
+      {
+        "id": 4,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649717872/image-w240_-_2022-04-11T175631.226_najoys.jpg",
+        "name": "BJÖRN HLYNUR HARALDSSON",
+        "cast": "CAST"
+      },
+      {
+        "id": 5,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649717877/image-w240_-_2022-04-11T175638.939_nxrqww.jpg",
+        "name": "INGVAR EGGERT SIGURÐSSON",
+        "cast": "CAST"
+      },
+      {
+        "id": 6,
+        "photo": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649717904/image-w240_-_2022-04-11T175757.221_kukhas.jpg",
+        "name": "SJÓN",
+        "cast": "SCREEANPLAY"
+      }
+ ]
+ }
+ ]
 
 }

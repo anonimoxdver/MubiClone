@@ -9,7 +9,7 @@ import {
  
 import App from '../App'
 import { Films } from '../movies/Films'
-import {  filmsoscar, filmSpotlight , MubiPod, FilmOfTheDay} from '../db/Films.json'
+import {  filmsoscar, filmSpotlight , MubiPod, FilmOfTheDay, Movie} from '../db/Films.json'
 import { MubiTop1000, GoldenPalms, trending, festivalfocus} from '../db/categories.json'
 
 
@@ -27,6 +27,12 @@ export const Navigation = () => {
                 {
                     MubiTop1000.map(MubiTop1000=>  
                       <Route key={MubiTop1000.id} path={MubiTop1000.path} element={ <Films {...MubiTop1000} />}  />
+                    
+                    )
+                }
+                     {
+                    Movie.map(Movie=>  
+                      <Route key={Movie.id} path={Movie.path} element={ <Films {...Movie} />}  />
                     
                     )
                 }
