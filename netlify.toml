@@ -6,5 +6,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/Routes/Navigation.jsx"
   status = 200
