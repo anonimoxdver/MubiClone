@@ -1,3 +1,4 @@
+import React from 'react'
 import "../App.css";
 
 const DEFAULT_IMAGE =

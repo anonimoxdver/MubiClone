@@ -416,8 +416,14 @@
             "director": "Directed by Malik Bendjelloul Sweden, United Kingdom, 2012",
             "name": "SEARCHING FOR SUGAR MAN",
             "path": "SEARCHING_FOR_SUGAR_MAN"
-        }
-        
+        },
+        {
+            "id": 60,
+            "image": "https://res.cloudinary.com/dsii7wbi4/image/upload/v1649448141/image-w1280_35_ysspu6.webp",
+            "director": "Directed by Valdimar Jóhannsso Iceland, Sweden, 2021",
+            "name": "LAMB",
+            "path": "LAMB"
+        }        
 
 
     ]
