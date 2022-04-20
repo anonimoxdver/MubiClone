@@ -50,7 +50,7 @@ peticionGet();
 },[])
   return (
     <div className="NavBar">
-      <a href="http://localhost:3000">
+      <a href="https://mubiclone-da.netlify.app/">
         <img
           className="NavBarImage"
           src="https://res.cloudinary.com/dsii7wbi4/image/upload/v1648022951/1280px-Mubi_logo.svg_d4dstq.png"
@@ -64,20 +64,20 @@ peticionGet();
      
             
       
-      <a href="http://localhost:3000" className="NOWBar">
+      <a href="https://mubiclone-da.netlify.app/" className="NOWBar">
         NOW SHOWING
       </a>
       <a href="" className="NotebookBar">
         NOTEBOOK
       </a>
-      <a href="">
+      <a href="https://mubiclone-da.netlify.app/">
         <img
           className="AvatarNav"
           src="https://res.cloudinary.com/dsii7wbi4/image/upload/v1648025815/avatar_dokcxh.png"
           alt=""
         />
       </a>
-      <a href="">
+      <a href="https://mubiclone-da.netlify.app/">
         <img
           className="OptionsBar"
           src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAGVJREFUSEvtlDsOACAIQ+H+h9YVEgi/NCw4C4+2IhP4MLg/rQDeUJUa2lIABwwF6PKVDOQIWbvcQSMFcMA4j0gBBJC1xYPfHtRiiULO5nF7UPNd3l75rrPBthet74dRGT3TMQwO+OBWChlWtxY1AAAAAElFTkSuQmCC"
