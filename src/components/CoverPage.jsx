@@ -8,7 +8,7 @@ export const CoverPage = () => {
          <div className='exclusive'>Exclusive</div>
          <span className='span1'>FILM OF THE DAY</span>
          <div className='play_div'>
-           <a href="/LAMB">
+           <a href="/lamb">
               <img  className='play'src="https://res.cloudinary.com/dsii7wbi4/image/upload/v1649457032/1024px-Caret_right_font_awesome.svg_zyram1.png" alt="" />
            </a>
          </div>

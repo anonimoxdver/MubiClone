@@ -225,6 +225,7 @@ a {
   margin-top: 29px;
   width: 150px;
   height: 100px;
+  left: 1%;
   background-color: white;
   position: absolute;
 
@@ -593,10 +594,11 @@ width: 60px;
 }
 .img_page{
   
-  width: 340px;
+  width: 43vh;
   margin-left: 146px;
-  top: 380px;
- position: absolute;
+  top: 54%;
+  height: 10vh;
+  position: absolute;
  
 }
 
